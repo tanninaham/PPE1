@@ -1,0 +1,5 @@
+ANNEE= 2016
+TYPE= "location"
+
+echo "pour l'année $ANNEE" > sortie.txt
+grep "$TYPE" $ANNEE*.ann | wc -l >> sortie.txt
