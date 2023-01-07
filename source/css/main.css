@@ -1,22 +1,27 @@
-/*
-GLOBAL
-*/
-.heading-site {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+* {
+    margin: -10;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.COLORED {
-   height: 400px;
-   width: 100%;
-   background-color: #636e72;
-   padding: 30px;
-   text-align: center;
+body { font-family: 'Montserrat', 'sans-serif'; }
+a { text-decoration: none; }
+
+.header{
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  height: 70px;
+  line-height: 70px;
+  background-color: rgba(0,0,0,0);
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  z-index: 999;
 }
 
-/*
-header
-*/
 .header{
   width: 100%;
   margin-left: 0;
@@ -30,32 +35,31 @@ header
 }
 
 .header .header-logo{
-  color: #FFFFFF;
+  color: black;
   font-family: 'Montserrat', sans-serif;
   float: left;
   margin-left: 30px;
   color: #636e72;
 }
 
-.header .header-menu {
+.header .navbar-sousMenu {
   float: right;
   margin-right: 30px;
+  background-image: image("https://unsplash.com/fr/photos/0wDNSP38YzI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink");
+  border-top: none;
+  
+
 }
 
-.header .header-menu a{
-  margin-right: 15px;
-  color: #636e72;
+.header .logo{
+  margin-left: 60px;
 }
-
-.header .header-menu a:hover{
-  color:#3498db
-}
-
 /*
 BANNER
 */
 .banner {
-  margin-top: -20px;
+  margin-top: -30px;
+  color: #FFFFFF;
 
 }
 
@@ -71,8 +75,10 @@ BANNER
   top: 50%;
 }
 
+.header .heading-site {
+  text-align: center;
 
-
+}
 /*
 ABOUT
 */
@@ -115,3 +121,28 @@ MODAL
 .own-modal{
   padding-top: 120px;
 }
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dropdownmenu {
+    background-color: #11111;
+    display: flex;
+  }
+  .dropdownmenu ul {
+    display: none;
+  }
+  .dropdownmenu,
+  .dropdownmenu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .dropdownmenu li {
+    position: relative;
+  }
+
+ 
