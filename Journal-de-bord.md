@@ -24,3 +24,6 @@ J'ai essayé d'effectuer un tag avec la commande fourni dans les slides, incapac
 
 ## Slide  Shell Unix
 * Création d'un document non déposé dans le git permettant l'énumération des nombreuses commandes tels que cd, ls,rm...
+
+## Création d'un site Web
+* J'ai quelques compétences en html mais pas grandement, j'ai donc commencé par regarder des vidéos, faire des recherches pour la réalisation de celui-ci. J'ai rencontré de nombreux problèmes: la barre de navigation comprenant une menu déroulant avec ou sans navbar burger
