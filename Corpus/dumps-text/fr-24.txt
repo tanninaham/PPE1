@@ -1,0 +1,535 @@
+    #[1]Accueil [2]Fil RSS des dix dernières actualités
+
+   (BUTTON) Menu
+
+   [3]Contenu | [4]Navigation | [5]Accès directs | [6]Connexion
+   (BUTTON) Accès directs
+     * [7][picto-24px-wg8c-regions-alt_1466677173513-png] Répertoire des
+       centres régionaux
+     * [8][picto-24px-wg8c-enf-alt_1466676812086-png] Espace numérique de
+       formation
+     * [9][picto-24px-wg8c-handi-cnam_1469200995688-png] Handi'Cnam
+     * [10][picto-24px-wg8c-cnam-mag_1466781621531-png] Le Cnam mag'
+     * [11][picto-24px-wg8c-musee_1466677105776-png] Musée des arts et
+       métiers
+     * [12][picto-24px-wg8c-boutique_1466676772117-png] La boutique du
+       Cnam
+     * [13][picto-24px-wg8c-intranet_1466677065451-png] Accès à
+       l'intraCnam
+
+   Réseaux sociaux
+     * [14]picto-Facebook
+     * [15]picto-Twitter
+     * [16]picto-LinkedIn
+     * [17]picto-YouTube
+     * [18]picto-Instagram
+     * [19]picto-Flux RSS 2 du blog
+     * [20]picto-Newsletter
+     * [21]picto-Tiktok
+
+   Recherche ____________________ ok
+   (BUTTON) fr
+     * [22]en
+
+   [23]logo-Le blog
+   [24]le blog
+   [bandeau-blog-alt-1.png]
+   [bandeau-blog-alt-2.jpg]
+   Les enjeux contemporains décryptés par nos expert·e·s
+     * [25]Travail
+          + [26]Droit du travail
+          + [27]Mixité et égalité professionnelle
+          + [28]Formation (professionnelle)
+          + [29]Le futur du travail
+     * [30]Sciences et techniques
+          + [31]Industrie
+          + [32]Innovation
+          + [33]Pratiques de la recherche
+     * [34]Santé
+          + [35]Santé publique
+          + [36]Santé au travail
+          + [37]Alimentation
+     * [38]Planète verte
+     * [39]L'Europe et le monde
+          + [40]Union européenne
+          + [41]International
+          + [42]Geostrategia
+     * [43]Société
+          + [44]Politique
+          + [45]Promotion sociale
+          + [46]Action sociale
+          + [47]Accessibilité et handicap
+     * [48]Culture
+          + [49]Jeux vidéo
+          + [50]Loisirs
+          + [51]Figures emblématiques
+          + [52]Histoire
+     * [53]Quid - le podcast
+
+   [54]Accueil[55]Travail[56]Droit du travail
+
+     * (BUTTON) Imprimer
+     *
+     * [57]Version PDF
+     * (BUTTON) Partager
+       Partager cette page
+          + [58]Facebook
+          + [59]Twitter
+          + [60]Linkedin
+
+     * | Droit ,
+     * | Emploi ,
+     * | Entreprise ,
+     * | Handicap ,
+     * | Travail ,
+     * | Migration,
+
+Discrimination raciale dans l'entreprise : le dispositif juridique reste à
+améliorer
+
+   Michel Miné Professeur du Cnam, titulaire de la chaire Droit du travail
+   et droits de la personne, Lise/Cnam/Cnrs
+   Publié le 9 juillet 2020 - Mis à jour le 24 mars 2022
+
+   Le président de la République Emmanuel Macron a affirmé, lors de son
+   allocution du 14 juin, que la France sera intraitable « face au
+   racisme, à l'antisémitisme et aux discriminations ».
+   Hyejin Kang / Shutterstock
+
+   Hyejin Kang / Shutterstock
+
+   « Notre combat doit se poursuivre et s'intensifier pour permettre
+   d'obtenir les diplômes et les emplois qui correspondent aux mérites et
+   talents de chacun, et lutter contre le fait que le nom, l'adresse, la
+   couleur de peau réduisent encore trop souvent dans notre pays les
+   chances que chacun doit avoir », a-t-il rajouté. « Nous sommes une
+   nation où chacun, quelles que soient ses origines, sa religion, doit
+   trouver sa place. Est-ce vrai partout et pour tout le monde ? Non,
+   notre combat doit donc se poursuivre, s'intensifier ».
+
+   L'urgence d'agir contre les discriminations liées aux origines a été
+   récemment [61]soulignée par le Défenseur des droits.
+
+   Dans ce combat, le droit est une ressource essentielle. Or, le droit
+   interne, malgré ses progrès, grâce au droit international des droits de
+   l'homme et au droit de l'Union européenne, demeure à améliorer pour
+   répondre à ces ambitions.
+
+   IFRAME:
+   [62]https://www.youtube.com/embed/gnHVmwqQjnM?wmode=transparent&start=0
+
+   Extrait de l'allocution d'Emmanuel Macron, le 14 juin 2020 (Les Echos).
+
+   Certes, le droit interne interdit la discrimination dans l'emploi et
+   dans le travail au regard de plusieurs critères liés à l'être ou à
+   l'agir des personnes (sexe, orientation sexuelle, état de santé,
+   situation de handicap, activités syndicales, etc.). Ainsi, la
+   discrimination raciale est prohibée par la loi : aucune personne ne
+   peut faire l'objet d'une mesure discriminatoire, directe ou indirecte,
+   en lien avec « son appartenance ou sa non-appartenance, vraie ou
+   supposée, à une ethnie, une nation ou une prétendue race ».
+
+   Le droit interdit toutes les discriminations avec la même intensité.
+   Cependant, il ne prévoit pas des leviers comparables pour agir contre
+   toutes les discriminations, pour les identifier et les faire cesser. Le
+   droit n'offre pas les mêmes ressources à mobiliser suivant les critères
+   de discrimination.
+
+Dialogue social
+
+   Ainsi, en matière de dialogue social, dans toute entreprise où est
+   présente une organisation syndicale représentative, l'employeur et le
+   syndicat doivent négocier un accord d'entreprise en vue d'assurer
+   l'égalité professionnelle entre les femmes et les hommes.
+
+   Un régime juridique complet est prévu (contenu des négociations,
+   périodicité, informations à communiquer par l'employeur aux délégations
+   syndicales, etc.). Aucune disposition de même nature ne figure dans la
+   loi concernant d'autres discriminations, notamment la discrimination
+   raciale.
+
+   Dans une formulation très générale, dépourvue de précisions sur les
+   modalités concrètes, le code du travail dispose qu'une négociation
+   porte sur : « les mesures permettant de lutter contre toute
+   discrimination en matière de recrutement, d'emploi et d'accès à la
+   formation professionnelle ».
+
+   Cependant, il est possible, depuis les ordonnances de l'automne de
+   2017, de décider par accord d'entreprise, signé par l'employeur et les
+   délégués syndicaux, de ne pas négocier sur les différents critères de
+   discriminations (hormis la discrimination sexuelle).
+
+   Concernant les procédures d'information et de consultation des élus du
+   personnel, le comité économique et social doit recevoir de l'employeur,
+   dans toute entreprise d'au moins 50 salariés, des informations,
+   notamment dans la base des données économiques et sociales, concernant
+   la situation comparée des femmes et des hommes dans l'entreprise sur de
+   nombreux sujets (rémunérations et déroulements de carrière notamment).
+
+   Par contraste, ici encore, aucune disposition de même nature n'est
+   prévue concernant d'autres discriminations, notamment la discrimination
+   raciale.
+
+   Légalement, il est donc possible dans les entreprises, y compris celles
+   où sont présents des syndicats et des élus du personnel, de ne pas
+   traiter dans le cadre du dialogue social la question de la
+   discrimination raciale à l'embauche et dans la vie professionnelle.
+   Le droit n'offre pas les mêmes ressources à mobiliser suivant les
+   critères de discrimination. XiXinXingr/Shutterstock
+
+   Il est pourtant nécessaire d'examiner au plus près les processus de
+   gestion du personnel (politique d'accueil en stages, de recrutement, de
+   rémunération, d'accès à la formation et de reconnaissance des diplômes,
+   de promotion, etc.) pour vérifier l'absence de discrimination, directe
+   ou indirecte, volontaire ou non, en mobilisant toutes les parties
+   prenantes de l'entreprise.
+
+   Le droit interne n'apparaît pas ici en pleine conformité avec les
+   préconisations des directives de l'Union européenne, adoptées il y a
+   20 ans aujourd'hui. Ces directives demandent aux États de [63]favoriser
+   le dialogue social en matière de discrimination raciale et [64]au
+   regard d'autres critères.
+
+   Les partenaires sociaux ne sont pas restés inactifs. Ainsi, ils ont
+   conclu, le 12 octobre 2006, un Accord national interprofessionnel
+   « [65]relatif à la diversité dans l'entreprise ». Cet accord prévoit
+   notamment qu'une fois par an l'employeur réunira les représentants élus
+   du personnel et les délégués syndicaux en « comité élargi de la
+   diversité » pour faire le point sur la situation dans l'entreprise en
+   la matière.
+
+   Cependant, cet accord peine à être mis en oeuvre dans la plupart des
+   entreprises, à [66]quelques exceptions près.
+
+   En revanche, une [67]procédure d'alerte peut être déclenchée par un
+   représentant élu du personnel, du comité social et économique, en cas
+   de discrimination au regard de tous les critères et cette procédure
+   s'avère performante dans les faits.
+
+   Au niveau des branches professionnelles, la loi prévoit des
+   négociations en matière de discrimination pour deux critères : le sexe
+   et le handicap (avec des résultats encore limités). Les autres critères
+   de discrimination sont ignorés, notamment la discrimination raciale.
+   Ainsi, aucune disposition n'est prévue concernant la réévaluation des
+   emplois majoritairement occupés par des personnes étrangères ou
+   d'origine étrangère, alors que de telles dispositions existent
+   concernant les emplois majoritairement occupés par des femmes
+   (dispositions, légales de 2014 et conventionnelles de 2013, très
+   pertinentes, mais demeurant encore bien peu effectives).
+
+Action en justice
+
+   En matière de contentieux, tous les actes discriminatoires sont
+   interdits par le code du travail, notamment en matière d'embauche, de
+   rémunération, de formation, de reclassement, d'affectation, de
+   classification et de promotion. Toute mesure et tout acte
+   discriminatoires peuvent être contestés devant le juge civil (conseil
+   de prud'hommes) pour en obtenir l'annulation et la réparation.
+
+   Cependant, il en est tout autre en droit pénal devant le juge
+   répressif. Le code pénal prévoit des sanctions uniquement quand la
+   discrimination, notamment raciale, consiste « à refuser d'embaucher, à
+   sanctionner ou à licencier une personne » et « à subordonner une offre
+   d'emploi, une demande de stage ou une période de formation en
+   entreprise » à une condition fondée sur un critère de discrimination.
+
+   Ainsi, un employeur, en qualité de personne physique et de personne
+   morale, [68]peut être poursuivi et sanctionné par le juge pénal
+   (tribunal correctionnel) pour [69]refus d'embauche ou pour offre
+   d'emploi discriminatoire.
+
+   En revanche, le droit ne prévoit pas qu'il soit pénalement sanctionné
+   en cas d'affectation discriminatoire, notamment en cas d'ethnicisation
+   de l'organisation du travail : aucune infraction n'est prévue en ce
+   cas.
+
+   Aucune infraction ne peut lui être reprochée en cas de discrimination
+   en matière de rémunération, de déroulement de carrière, etc. Concernant
+   ces mesures discriminatoires, seules des actions civiles sont possibles
+   (discrimination concernant la [70]reconnaissance des diplômes, la
+   rémunération et le déroulement de carrière).
+   Aucune infraction n'est prévue pour certaines mesures discriminatoires
+   liées aux origines. Fotogestoeber/Shutterstock
+
+   Pourtant, par ailleurs, le droit pénal, prévoit que toutes les
+   discriminations, notamment en matière de rémunération et de déroulement
+   de carrière, concernant les [71]activités syndicales et [72]l'égalité
+   professionnelle entre les femmes et les hommes, peuvent être
+   sanctionnées pénalement. Le droit pénal dit l'interdit ; il serait donc
+   souhaitable que des dispositions comparables existent pour tous les
+   critères de discrimination.
+
+Harmonisation nécessaire
+
+   Pour rendre le droit plus efficace et plus effectif au bénéfice des
+   personnes discriminées et pour assurer la cohésion de la Cité, il est
+   nécessaire de procéder à l'harmonisation du droit, à son « égalisation
+   dans le progrès », selon la belle formule du droit européen.
+
+   Une telle évolution est indispensable notamment pour les Français,
+   jeunes et moins jeunes, dits « d'origine étrangère ». Après leurs
+   études et leurs formations, avec leurs titres et leurs diplômes, les
+   entreprises doivent permettre à ces personnes comme aux autres d'y
+   exercer leurs talents.
+
+   L'absence de discrimination dans l'emploi est une réponse nécessaire à
+   toute forme de « communautarisme » ou de « séparatisme ». La justice
+   sociale dans le travail est nécessaire pour permettre la participation
+   de tous les citoyens dans la République.
+
+   Et pour rendre le droit effectif, pour le connaître et savoir en faire
+   bon usage, la [73]formation des acteurs à ne pas discriminer est
+   [74]nécessaire. The Conversation
+
+   [75]Michel Miné, Professeur du Cnam, titulaire de la chaire Droit du
+   travail et droits de la personne, Lise/Cnam/Cnrs, [76]Conservatoire
+   national des arts et métiers (CNAM)
+
+   Cet article est republié à partir de [77]The Conversation sous licence
+   Creative Commons. Lire l'[78]article original.
+   Picto label thématiques articles Cnam Blog | Droit | Emploi |
+   Entreprise | Handicap | Travail | Migration
+
+L'auteur
+
+   Michel Miné,
+   professeur titulaire de la chaire [79]Droit du travail et droits de la
+   personne
+
+   [80]tous ses articles tous ses articles
+   Michel Miné
+
+Dans la même rubrique
+
+     * [81]Droit du travail
+     * [82]Mixité et égalité professionnelle
+     * [83]Formation (professionnelle)
+     * [84]Le futur du travail
+
+   (BUTTON) Accès directs
+     * [85][picto-24px-wg8c-regions-alt_1466677173513-png] Répertoire des
+       centres régionaux
+     * [86][picto-24px-wg8c-enf-alt_1466676812086-png] Espace numérique de
+       formation
+     * [87][picto-24px-wg8c-handi-cnam_1469200995688-png] Handi'Cnam
+     * [88][picto-24px-wg8c-cnam-mag_1466781621531-png] Le Cnam mag'
+     * [89][picto-24px-wg8c-musee_1466677105776-png] Musée des arts et
+       métiers
+     * [90][picto-24px-wg8c-boutique_1466676772117-png] La boutique du
+       Cnam
+     * [91][picto-24px-wg8c-intranet_1466677065451-png] Accès à
+       l'intraCnam
+
+   Réseaux sociaux
+     * [92]picto-Facebook
+     * [93]picto-Twitter
+     * [94]picto-LinkedIn
+     * [95]picto-YouTube
+     * [96]picto-Instagram
+     * [97]picto-Flux RSS 2 du blog
+     * [98]picto-Newsletter
+     * [99]picto-Tiktok
+
+     * [100]Infos site
+     * [101]Plan de site
+     * [102]Accessibilité: non conforme
+     * [103]Bibliothèques
+
+     * [104]Travail
+          + [105]Droit du travail
+          + [106]Mixité et égalité professionnelle
+          + [107]Formation (professionnelle)
+          + [108]Le futur du travail
+     * [109]Sciences et techniques
+          + [110]Industrie
+          + [111]Innovation
+          + [112]Pratiques de la recherche
+     * [113]Santé
+          + [114]Santé publique
+          + [115]Santé au travail
+          + [116]Alimentation
+     * [117]Planète verte
+     * [118]L'Europe et le monde
+          + [119]Union européenne
+          + [120]International
+          + [121]Geostrategia
+     * [122]Société
+          + [123]Politique
+          + [124]Promotion sociale
+          + [125]Action sociale
+          + [126]Accessibilité et handicap
+     * [127]Culture
+          + [128]Jeux vidéo
+          + [129]Loisirs
+          + [130]Figures emblématiques
+          + [131]Histoire
+     * [132]Quid - le podcast
+
+   Réseaux sociaux
+     * [133]picto-Facebook
+     * [134]picto-Twitter
+     * [135]picto-LinkedIn
+     * [136]picto-YouTube
+     * [137]picto-Instagram
+     * [138]picto-Flux RSS 2 du blog
+     * [139]picto-Newsletter
+     * [140]picto-Tiktok
+
+   [141]Haut de page
+
+   [142]Konnexion
+
+   [143]https://blog.cnam.fr/travail/droit-du-travail/discrimination-racia
+   le-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.
+   kjsp?RH=1516980322478
+
+References
+
+   Visible links:
+   1. https://blog.cnam.fr/
+   2. https://blog.cnam.fr/adminsite/webservices/export_rss.jsp?NOMBRE=10&CODE_RUBRIQUE=1479718129770&LANGUE=0
+   3. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#avec_nav_avec_encadres
+   4. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#menu_principal
+   5. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#acces_directs
+   6. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#connexion
+   7. https://blog.cnam.fr/repertoire-des-centres-regionaux/
+   8. https://blog.cnam.fr/espace-numerique-de-formation/
+   9. https://blog.cnam.fr/handi-cnam/
+  10. https://blog.cnam.fr/le-cnam-mag-/
+  11. https://blog.cnam.fr/musee-des-arts-et-metiers/
+  12. https://blog.cnam.fr/la-boutique-du-cnam/
+  13. https://blog.cnam.fr/acces-a-l-intracnam/
+  14. https://blog.cnam.fr/facebook/
+  15. https://blog.cnam.fr/twitter/
+  16. https://blog.cnam.fr/linkedin/
+  17. https://blog.cnam.fr/youtube/
+  18. https://blog.cnam.fr/instagram/
+  19. https://blog.cnam.fr/flux-rss-2-du-blog/
+  20. https://blog.cnam.fr/newsletter/
+  21. https://blog.cnam.fr/tiktok/
+  22. https://www.cnam.eu/site-en/
+  23. https://www.cnam.fr/
+  24. https://blog.cnam.fr/
+  25. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  26. https://blog.cnam.fr/travail/droit-du-travail/
+  27. https://blog.cnam.fr/travail/mixite-et-egalite-professionnelle/
+  28. https://blog.cnam.fr/travail/formation-professionnelle-/
+  29. https://blog.cnam.fr/travail/le-futur-du-travail/
+  30. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  31. https://blog.cnam.fr/sciences-et-techniques/industrie/
+  32. https://blog.cnam.fr/sciences-et-techniques/innovation/
+  33. https://blog.cnam.fr/sciences-et-techniques/pratiques-de-la-recherche/
+  34. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  35. https://blog.cnam.fr/sante/sante-publique/
+  36. https://blog.cnam.fr/sante/sante-au-travail/
+  37. https://blog.cnam.fr/sante/alimentation/
+  38. https://blog.cnam.fr/planete-verte/
+  39. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  40. https://blog.cnam.fr/l-europe-et-le-monde/union-europeenne/
+  41. https://blog.cnam.fr/l-europe-et-le-monde/international/
+  42. https://blog.cnam.fr/l-europe-et-le-monde/geostrategia/
+  43. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  44. https://blog.cnam.fr/societe/politique/
+  45. https://blog.cnam.fr/societe/promotion-sociale/
+  46. https://blog.cnam.fr/societe/action-sociale/
+  47. https://blog.cnam.fr/societe/accessibilite-et-handicap/
+  48. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  49. https://blog.cnam.fr/culture/jeux-video/
+  50. https://blog.cnam.fr/culture/loisirs/
+  51. https://blog.cnam.fr/culture/figures-emblematiques/
+  52. https://blog.cnam.fr/culture/histoire/
+  53. https://blog.cnam.fr/quid-le-podcast/
+  54. http://blog.cnam.fr/
+  55. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+  56. https://blog.cnam.fr/travail/droit-du-travail/
+  57. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp?RH=1516980322478&toPdf=true
+  58. https://www.facebook.com/sharer/sharer.php?s=100&u=https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp?RH=1516980322478
+  59. https://twitter.com/intent/tweet?url=https%3A%2F%2Fblog.cnam.fr%2Ftravail%2Fdroit-du-travail%2Fdiscrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp%3FRH%3D1516980322478&via=lecnam&text=Discrimination+raciale+dans+l%E2%80%99entreprise+%3A+le+dispositif+juridique+reste+%C3%A0+am%C3%A9liorer
+  60. https://www.linkedin.com/shareArticle?mini=true&url=https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp?RH=1516980322478
+  61. https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/rap-origine-num-15.06.20.pdf
+  62. https://www.youtube.com/embed/gnHVmwqQjnM?wmode=transparent&start=0
+  63. https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32000L0043&from=FR
+  64. https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32000L0078&from=FR
+  65. https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2014/09/accord_national_interprofessionnel_du_12_octobre_2006_-_diversite_dans_lentreprise.pdf
+  66. https://dares.travail-emploi.gouv.fr/IMG/pdf/Etude_accords_diversite.pdf
+  67. https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000038791189&cidTexte=LEGITEXT000006072050&dateTexte=20200101
+  68. https://ledroitouvrier.cgt.fr/IMG/pdf/200307_doctrine_mine.pdf
+  69. https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000020875114
+  70. https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000019132576
+  71. https://www.legifrance.gouv.fr/affichJuriJudi.do?oldAction=rechJuriJudi&idTexte=JURITEXT000007069891&fastReqId=1567701236&fastPos=1
+  72. https://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007541281
+  73. https://blog.cnam.fr/rechercher-par-discipline/agir-contre-les-discriminations-gerer-la-diversite-592185.kjsp
+  74. http://www.cae-eco.fr/IMG/pdf/cae-note056.pdf
+  75. https://theconversation.com/profiles/michel-mine-247707
+  76. https://theconversation.com/institutions/conservatoire-national-des-arts-et-metiers-cnam-2427
+  77. https://theconversation.com/
+  78. https://theconversation.com/discrimination-raciale-dans-lentreprise-le-dispositif-juridique-reste-a-ameliorer-142132
+  79. https://droit.cnam.fr/formation-en-droit-des-affaires-en-droit-fiscal-droit-des-nouvelles-technologies-et-en-droit-social-13662.kjsp?RH=1516980322478&RF=dr_affaires
+  80. https://blog.cnam.fr/tous-les-articles-de-michel-mine-917965.kjsp?RH=1516980322478
+  81. https://blog.cnam.fr/travail/droit-du-travail/
+  82. https://blog.cnam.fr/travail/mixite-et-egalite-professionnelle/
+  83. https://blog.cnam.fr/travail/formation-professionnelle-/
+  84. https://blog.cnam.fr/travail/le-futur-du-travail/
+  85. https://blog.cnam.fr/repertoire-des-centres-regionaux/
+  86. https://blog.cnam.fr/espace-numerique-de-formation/
+  87. https://blog.cnam.fr/handi-cnam/
+  88. https://blog.cnam.fr/le-cnam-mag-/
+  89. https://blog.cnam.fr/musee-des-arts-et-metiers/
+  90. https://blog.cnam.fr/la-boutique-du-cnam/
+  91. https://blog.cnam.fr/acces-a-l-intracnam/
+  92. https://blog.cnam.fr/facebook/
+  93. https://blog.cnam.fr/twitter/
+  94. https://blog.cnam.fr/linkedin/
+  95. https://blog.cnam.fr/youtube/
+  96. https://blog.cnam.fr/instagram/
+  97. https://blog.cnam.fr/flux-rss-2-du-blog/
+  98. https://blog.cnam.fr/newsletter/
+  99. https://blog.cnam.fr/tiktok/
+ 100. https://blog.cnam.fr/infos-site/
+ 101. https://blog.cnam.fr/plan-de-site-/
+ 102. https://blog.cnam.fr/accessibilite-non-conforme/
+ 103. https://blog.cnam.fr/bibliotheques/
+ 104. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+ 105. https://blog.cnam.fr/travail/droit-du-travail/
+ 106. https://blog.cnam.fr/travail/mixite-et-egalite-professionnelle/
+ 107. https://blog.cnam.fr/travail/formation-professionnelle-/
+ 108. https://blog.cnam.fr/travail/le-futur-du-travail/
+ 109. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+ 110. https://blog.cnam.fr/sciences-et-techniques/industrie/
+ 111. https://blog.cnam.fr/sciences-et-techniques/innovation/
+ 112. https://blog.cnam.fr/sciences-et-techniques/pratiques-de-la-recherche/
+ 113. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+ 114. https://blog.cnam.fr/sante/sante-publique/
+ 115. https://blog.cnam.fr/sante/sante-au-travail/
+ 116. https://blog.cnam.fr/sante/alimentation/
+ 117. https://blog.cnam.fr/planete-verte/
+ 118. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+ 119. https://blog.cnam.fr/l-europe-et-le-monde/union-europeenne/
+ 120. https://blog.cnam.fr/l-europe-et-le-monde/international/
+ 121. https://blog.cnam.fr/l-europe-et-le-monde/geostrategia/
+ 122. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+ 123. https://blog.cnam.fr/societe/politique/
+ 124. https://blog.cnam.fr/societe/promotion-sociale/
+ 125. https://blog.cnam.fr/societe/action-sociale/
+ 126. https://blog.cnam.fr/societe/accessibilite-et-handicap/
+ 127. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#2
+ 128. https://blog.cnam.fr/culture/jeux-video/
+ 129. https://blog.cnam.fr/culture/loisirs/
+ 130. https://blog.cnam.fr/culture/figures-emblematiques/
+ 131. https://blog.cnam.fr/culture/histoire/
+ 132. https://blog.cnam.fr/quid-le-podcast/
+ 133. https://blog.cnam.fr/facebook/
+ 134. https://blog.cnam.fr/twitter/
+ 135. https://blog.cnam.fr/linkedin/
+ 136. https://blog.cnam.fr/youtube/
+ 137. https://blog.cnam.fr/instagram/
+ 138. https://blog.cnam.fr/flux-rss-2-du-blog/
+ 139. https://blog.cnam.fr/newsletter/
+ 140. https://blog.cnam.fr/tiktok/
+ 141. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp#body
+ 142. https://blog.cnam.fr/servlet/com.jsbsoft.jtf.core.SG?PROC=IDENTIFICATION_FRONT&ACTION=CONNECTER&URL_REDIRECT=%2Ftravail%2Fdroit-du-travail%2Fdiscrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp
+ 143. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp?RH=1516980322478
+
+   Hidden links:
+ 145. https://blog.cnam.fr/
+ 146. https://blog.cnam.fr/travail/droit-du-travail/discrimination-raciale-dans-l-entreprise-le-dispositif-juridique-reste-a-ameliorer-1189990.kjsp?versiontexte=true

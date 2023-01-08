@@ -1,0 +1,180 @@
+   #[1]alternate
+
+     * [2]Aller au menu
+     * [3]Aller au contenu
+
+   [4]AFMD [5]menu
+
+     * (BUTTON) L'AFMD
+          + [6]Nous connaître
+          + [7]Notre approche
+          + [8]Les organisations adhérentes
+          + [9]Le conseil d'administration
+          + [10]Le conseil d'orientation
+          + [11]L'équipe
+          + [12]Recrutement
+     * (BUTTON) Le management de la diversité
+          + [13]De quoi parle-t-on ?
+          + [14]Les chartes et les labels
+     * (BUTTON) Nos activités
+          + [15]Les actualités
+               o [16]Nos propositions 2022-2027
+          + [17]L'agenda
+          + [18]La recherche
+          + [19]Les formats d'activités
+          + [20]Les partenariats
+          + [21]AFMD x Initiative #StOpE
+     * [22]Docuthèque
+     * [23]Espace presse
+
+   [24]Espace adhérent·e
+
+     * [25]Nous rejoindre
+     * [26]Nous contacter
+
+    1. [27]Accueil
+
+     [28]Les actualités
+
+     [29]Traduction de l'ouvrage Le racisme et la discrimination raciale
+   au travail
+
+Traduction de l'ouvrage Le racisme et la discrimination raciale au travail
+
+   Publié le Lundi 10 octobre 2022
+     *
+     *
+     *
+     *
+
+   [Racism%20and%20racial%20discrimination%20image%20site%20web.jpg?itok=1
+   L3PcTfQ]
+
+   En 2018, l'AFMD publiait [30]Le racisme et la discrimination raciale au
+   travail. Nous écrivions alors que ces thématiques étaient encore peu
+   traitées dans les organisations. Force est de constater que malgré les
+   récents mouvements sociaux, notamment Black Lives Matter, le racisme et
+   les discriminations raciales sont encore peu prises en charge par les
+   politiques D&I.
+
+   À l'occasion de la traduction de cet ouvrage, l'AFMD a organisé une
+   conférence internationale « Tackling Racism and Racial Discrimination
+   In the Workplace » le 7 octobre dernier, en clôture de la Seri 2022.
+   Les échanges lors de la conférence soulignaient la particularité du
+   contexte français en matière de lutte contre le racisme en milieu
+   professionnel, un constat que nous avons également fait lors de notre
+   travail de traduction.
+
+Plus qu'une traduction, une adaptation
+
+   Nous avons en effet décidé de ne pas traduire une partie du texte
+   original, très liée au contexte français. Certaines expressions
+   nécessitant une mise en contexte ou des précisions, la version anglaise
+   a été enrichie avec des encadrés et de notes de bas de page
+   explicatives. Nous avons par exemple éclairci l'utilisation du terme «
+   black » en français.
+
+   La traduction, tout comme son pendant français, donne à voir comment le
+   racisme et la discrimination raciale sont perçus dans le monde
+   professionnel et comment ils s'y manifestent. Sur la base de cet état
+   des lieux, l'ouvrage propose des pistes d'action pour lutter contre le
+   racisme et la discrimination raciale au travail.
+
+   [31]Consulter la traduction du livre en version PDF
+
+   La version française de ce travail était accompagnée de deux affiches
+   sur les manifestations et les conséquences du racisme, mises à
+   disposition des professionnel·le·s pour leur permettre de mieux
+   appréhender ces problématiques et de communiquer en interne. Ces
+   affiches ont aussi été traduites : n'hésitez pas à les utiliser pour
+   sensibiliser vos équipes et ouvrir des discussions !
+
+   [32]Voir l'affiche sur les manifestations du racisme au travail en
+   version anglaise
+
+   [33]Voir l'affiche sur les conséquences du racisme au travail en
+   version anglaise
+
+
+   Vous n'avez pas trouvé ce que vous cherchiez ?
+   Votre recherche ____________________
+   (BUTTON) Valider
+
+     * [34]Recrutement
+     * Langues
+       [Français]
+
+   Nous suivre
+     *
+     *
+     *
+     *
+
+   Notre newsletter (BUTTON) S'inscrire à notre newsletter
+   Mieux nous connaître
+     * [35]L'AFMD s'engage pour l'e-accessibilité
+     * [36]Notre manifeste
+     * [37]E-book « Le handicap intégré à la gestion des ressources
+       humaines »
+     * [38]Site vidéo « Label diversité : de l'expérience à l'action »
+
+     * [39]Cookies
+     * [40]Mentions légales
+     * [41]Plan du site
+
+   AFMD
+
+References
+
+   Visible links:
+   1. https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail
+   2. https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail#nav-principal
+   3. https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail#content
+   4. https://www.afmd.fr/
+   6. https://www.afmd.fr/nous-connaitre
+   7. https://www.afmd.fr/notre-approche
+   8. https://www.afmd.fr/organisations
+   9. https://www.afmd.fr/equipe/le-conseil-dadministration
+  10. https://www.afmd.fr/equipe/le-conseil-dorientation
+  11. https://www.afmd.fr/equipe
+  12. https://www.afmd.fr/recrutement
+  13. https://www.afmd.fr/diversite-et-inclusion-de-quoi-parle-t-et-comment-agir
+  14. https://www.afmd.fr/les-chartes-et-les-labels
+  15. https://www.afmd.fr/les-actualites
+  16. https://www.afmd.fr/nos-propositions-2022-2027
+  17. https://www.afmd.fr/les-evenements
+  18. https://www.afmd.fr/la-recherche
+  19. https://www.afmd.fr/vie-associative-et-offre-adherents
+  20. https://www.afmd.fr/les-partenariats
+  21. https://www.afmd.fr/afmd-x-initiative-stope
+  22. https://www.afmd.fr/la-docutheque
+  23. https://www.afmd.fr/espace-presse
+  24. https://www.afmd.fr/user/login
+  25. https://www.afmd.fr/nous-rejoindre
+  26. https://www.afmd.fr/nous-contacter
+  27. https://www.afmd.fr/
+  28. https://www.afmd.fr/les-actualites
+  29. https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail
+  30. https://www.afmd.fr/le-racisme-et-la-discrimination-raciale-au-travail-livre
+  31. https://www.afmd.fr/le-racisme-et-la-discrimination-raciale-au-travail-version-anglaise
+  32. https://www.afmd.fr/les-manifestations-du-racisme-au-travail-poster-version-anglaise
+  33. https://www.afmd.fr/les-consequences-du-racisme-au-travail-poster-version-anglaise
+  34. https://www.afmd.fr/recrutement
+  35. https://www.afmd.fr/lafmd-s-engage-pour-l-e-accessibilite
+  36. http://www.afmd.fr/sites/default/files/Manifeste%20AFMD%20%282018%29_0.pdf
+  37. https://www.afmd.fr/e-book-le-handicap-integre-la-gestion-des-ressources-humaines
+  38. https://www.afmd.fr/site-video-label-diversite-de-lexperience-laction
+  39. https://www.afmd.fr/cookies
+  40. https://www.afmd.fr/mentions-legales
+  41. https://www.afmd.fr/plan-du-site
+
+   Hidden links:
+  43. https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail#nav-principal
+  44. https://www.facebook.com/sharer.php?u=https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail
+  45. https://twitter.com/intent/tweet?url=https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail&text=Traduction%20de%20l'ouvrage%20Le%20racisme%20et%20la%20discrimination%20raciale%20au%20travail
+  46. https://www.linkedin.com/shareArticle?mini=true&url=https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail&title=Traduction%20de%20l'ouvrage%20Le%20racisme%20et%20la%20discrimination%20raciale%20au%20travail
+  47. mailto:?subject=Traduction%20de%20l'ouvrage%20Le%20racisme%20et%20la%20discrimination%20raciale%20au%20travail&body=https://www.afmd.fr/traduction-de-louvrage-le-racisme-et-la-discrimination-raciale-au-travail
+  48. https://twitter.com/afmd_diversite
+  49. https://www.linkedin.com/company/afmd/
+  50. https://www.youtube.com/channel/UCVGtSeXPlrLI_j9BVsjIQBQ
+  51. https://www.afmd.fr/rss
