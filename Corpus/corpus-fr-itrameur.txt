@@ -1,0 +1,439 @@
+<lang="fr">
+<page="fr-1">
+<text>
+   (BUTTON)
+</text>
+</page> §
+<page="fr-2">
+<text>
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-KTJ4VND
+
+   [ ]
+   [ ]
+</text>
+</page> §
+<page="fr-3">
+<text>
+   [ ]
+     * [1]Choisir son Avocat
+     * [2]Guides Juridiques
+     * [3]Nos Avocats
+     * [4]Mon compte
+</text>
+</page> §
+<page="fr-4">
+<text>
+
+</text>
+</page> §
+<page="fr-5">
+<text>
+
+</text>
+</page> §
+<page="fr-6">
+<text>
+   #[1]RSS [2]ATOM
+
+     *
+     *
+     *
+     * [3]Actu Maroc
+     * [4]L'Opinion
+</text>
+</page> §
+<page="fr-7">
+<text>
+   [1]Aller au contenu principal
+</text>
+</page> §
+<page="fr-8">
+<text>
+
+</text>
+</page> §
+<page="fr-9">
+<text>
+
+</text>
+</page> §
+<page="fr-10">
+<text>
+
+</text>
+</page> §
+<page="fr-11">
+<text>
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) Menu
+</text>
+</page> §
+<page="fr-12">
+<text>
+
+</text>
+</page> §
+<page="fr-13">
+<text>
+   #[1]Slate.fr
+
+   [tr?id=714463525321423&amp;ev=PageView&amp;noscript=1]
+
+   [2]France
+</text>
+</page> §
+<page="fr-14">
+<text>
+   #[1]alternate
+
+   IFRAME:
+   [2]https://www.googletagmanager.com/ns.html?id=GTM-5QNLTGR&amp;gtm_auth=XWh
+   1NlOe7Udt_V-KXeCUVQ&amp;gtm_preview=env-2&amp;gtm_cookies_win=x
+</text>
+</page> §
+<page="fr-15">
+<text>
+   IFRAME:
+   [1]https://www.googletagmanager.com/ns.html?id=GTM-5QNLTGR&amp;gtm_auth=XWh
+   1NlOe7Udt_V-KXeCUVQ&amp;gtm_preview=env-2&amp;gtm_cookies_win=x
+</text>
+</page> §
+<page="fr-16">
+<text>
+
+</text>
+</page> §
+<page="fr-17">
+<text>
+
+</text>
+</page> §
+<page="fr-18">
+<text>
+     * [1]Contenu principal
+     * [2]Recherche
+     * [3]Pied de page
+
+   [4]Aller au Journal
+</text>
+</page> §
+<page="fr-19">
+<text>
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
+
+     *
+     *
+          + 00h15
+            Toulouse Football Club
+            [2]Coupe de France. TFC : Lannion fait la force ?
+          + 23h47
+            Justice
+</text>
+</page> §
+<page="fr-20">
+<text>
+
+</text>
+</page> §
+<page="fr-21">
+<text>
+
+</text>
+</page> §
+<page="fr-22">
+<text>
+   #[1]alternate
+
+   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-KLGXH8
+
+   (BUTTON) [3]Voici
+   [4]Je m'abonne
+</text>
+</page> §
+<page="fr-23">
+<text>
+   [1]Passer au contenu
+     * [2]Radio France
+     * [3]France Inter
+     * [4]franceinfo
+     * [5]France Culture
+     * [6]France Musique
+     * [7]Fip
+     * [8]Mouv
+     * (BUTTON)
+
+   (BUTTON)
+   [9]Logo ici par France Bleu et France 3 Logo ici par France Bleu et
+   France 3
+     __________________________________________________________________
+</text>
+</page> §
+<page="fr-24">
+<text>
+
+</text>
+</page> §
+<page="fr-25">
+<text>
+    #[1]RSS
+
+   [2]Overblog
+   MENU
+</text>
+</page> §
+<page="fr-26">
+<text>
+    #[1]alternate [2]alternate [3]alternate [4]alternate
+
+     * [5]Homepage
+     * [6]Main navigation
+     * [7]Content area
+     * [8]Sitemap
+     * [9]Search
+</text>
+</page> §
+<page="fr-27">
+<text>
+   #[1]alternate [2]publisher
+
+   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-T4CHHR
+
+   (BUTTON)
+   [4]Gala
+
+   Gala
+   [5]Je m'abonne [6]newsletter
+     * [7]Actu
+</text>
+</page> §
+<page="fr-28">
+<text>
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5LTFWGF
+</text>
+</page> §
+<page="fr-29">
+<text>
+   [1]Skip to Main Navigation
+
+   [2]Logo du Groupe de la Banque mondiale
+   (BUTTON)
+   Global Search ____________________ (BUTTON) rechercher
+</text>
+</page> §
+<page="fr-30">
+<text>
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+</text>
+</page> §
+<page="fr-31">
+<text>
+   #[1]alternate
+
+   [2]Logo-CAL-Blog (BUTTON)
+     * [3]Entreprise
+       [4]Tous nos articles juridiques concernant le monde des
+       entreprises.
+       [5]
+</text>
+</page> §
+<page="fr-32">
+<text>
+   #[1]Subscribe to recent articles
+
+   [2]Jump to navigation
+
+   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-56TTNCM
+
+     * [4]Close
+     * [5]Menu
+</text>
+</page> §
+<page="fr-33">
+<text>
+   #[1]alternate
+
+     * [2]Aller au menu
+     * [3]Aller au contenu
+
+   [4]AFMD [5]menu
+
+     * (BUTTON) L'AFMD
+</text>
+</page> §
+<page="fr-34">
+<text>
+
+
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-W3KV4V
+</text>
+</page> §
+<page="fr-35">
+<text>
+
+</text>
+</page> §
+<page="fr-36">
+<text>
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+
+   [6]Aller au contenu principal
+</text>
+</page> §
+<page="fr-37">
+<text>
+   [ ]
+     * [1]Choisir son Avocat
+     * [2]Guides Juridiques
+     * [3]Nos Avocats
+     * [4]Mon compte
+</text>
+</page> §
+<page="fr-38">
+<text>
+   REFRESH(600 sec):
+   [1]https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d
+   -agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racism
+   e-7f1772d7f6b6fefd6b11a117c0eab7c4
+   #[2]Recherche sur Boursorama
+</text>
+</page> §
+<page="fr-39">
+<text>
+    (BUTTON) Menu [1]BFMTV
+   [2]Replay [3]Direct Radio Radio [4]Direct tv DirectTV
+</text>
+</page> §
+<page="fr-40">
+<text>
+
+</text>
+</page> §
+<page="fr-41">
+<text>
+    #[1]alternate
+
+     * [2]Le Point
+     * [3]Montres
+     * [4]Le Point Pop
+     * [5]Auto
+     * [6]Sports
+</text>
+</page> §
+<page="fr-42">
+<text>
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-PKTSKJX
+
+     *
+     * [2]News
+     * [3]Video
+     * Radio
+     * [4]Lifestyle
+     * [5]Cockpit
+     *
+
+     * [6]Home
+     * [7]Suisse Romande
+     * [8]Suisse
+     * [9]Monde
+     * [10]Guerre en Ukraine
+</text>
+</page> §
+<page="fr-43">
+<text>
+   [1]Menu [2]Fermer
+
+   ____________________ (BUTTON)
+     * [3]Page d'accueil
+     * [4]Culture
+</text>
+</page> §
+<page="fr-44">
+<text>
+    #[1]RSS
+</text>
+</page> §
+<page="fr-45">
+<text>
+
+</text>
+</page> §
+<page="fr-46">
+<text>
+   #[1]alternate [2]alternate
+
+   [3]Aller au contenu principal
+
+   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+
+   [5]Bienvenue aux Nations Unies (BUTTON) Language
+     * [6]a+l+e+r+b+y+tm
+</text>
+</page> §
+<page="fr-47">
+<text>
+    #[1]Flux RSS pour capital.fr
+
+   >gt; >gt;
+
+   IFRAME: [2]https://www.googletagmanager.com/ns.html?id=GTM-WKQXL3P
+
+   (BUTTON)
+   Menu
+   ____________________ (BUTTON)
+
+   (BUTTON)
+
+     * [3]FIL D'INFOS
+     * Rubriques
+          + [4]Economie et Politique
+</text>
+</page> §
+<page="fr-48">
+<text>
+   #[1]Slate.fr
+
+   [tr?id=714463525321423&amp;ev=PageView&amp;noscript=1]
+
+   [2]Politique
+</text>
+</page> §
+<page="fr-49">
+<text>
+   [1]Jump to navigation
+
+   [2]TV5 Monde
+     * [3]TV5MONDE Plus
+     * (BUTTON) TV
+          + [4]Vos rendez-vous
+          + [5]Guide des programmes
+          + [6]Revoir (replay)
+          + [7]Emissions
+</text>
+</page> §
+<page="fr-50">
+<text>
+   [1][docplayer_logo.png]
+     * [2]Entrer
+     * [3]Enregistrement
+
+   ____________________ (BUTTON) Chercher
+
+METHODOLOGIE DU DOSSIER DE SYNTHESE DOCUMENTAIRE SUJET: LES PROCES MENES PAR
+SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
+
+   IFRAME: [4]/docview/75/71702976/
+
+     * [5]SHARE
+     * [6]HTML
+     * [7]DOWNLOAD
+
+   Dimension: px
+</text>
+</page> §
+<page="fr-51">
+<text>
+
+</text>
+</page> §
+</lang>
