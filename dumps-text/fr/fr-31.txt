@@ -1,0 +1,327 @@
+   #[1]alternate
+
+   [2]Logo-CAL-Blog (BUTTON)
+     * [3]Entreprise
+       [4]Tous nos articles juridiques concernant le monde des
+       entreprises.
+       [5]
+
+Droit commercial - sociétés
+       [6]
+
+Droit social - travail
+       [7]
+
+Droit de la concurrence
+       [8]
+
+Droit fiscal des affaires
+       [9]
+
+Droit immobilier
+       [10]
+
+Droit pénal des affaires
+       [11]
+
+Droit public
+       [12]
+
+Procédures collectives
+       [13]
+
+Propriété intellectuelle
+       [14]
+
+Données personnelles - RGPD
+       [15]
+
+Contentieux des affaires
+       [16]
+
+Informatique & nouvelles technologies
+       [17]
+
+Droit des médias et des communications
+     * [18]Particulier
+       [19]Tous nos articles juridiques concernant les particuliers.
+       [20]
+
+Assurance - santé
+       [21]
+
+Droit pénal
+       [22]
+
+Droit social - travail
+       [23]
+
+Droit de la consommation
+       [24]
+
+Droit immobilier
+       [25]
+
+Droit routier
+       [26]
+
+Droit public
+       [27]
+
+Droit de la famille
+       [28]
+
+Fiscalité des particuliers
+       [29]
+
+Données personnelles - RGPD
+       [30]
+
+Droit des étrangers
+     * [31]Avocat
+
+   [32]Se connecter [33]EXPLIQUER MA SITUATION
+
+   Droit social-travail
+
+La discrimination raciale au travail
+
+   La discrimination raciale au travail: définition, analyse et solutions.
+   Un texte de Sophia Toloudi, avocate en droit public et administratif.
+   [34]Maître Sophia Toloudi
+   janv. 15, 2020
+
+L'interdiction de la discrimination raciale au travail
+
+   Le Code du travail interdit la discrimination raciale au travail.
+   L'article L1132-1 vise ainsi les discriminations lors de l'embauche ou
+   de l'accès à un stage, en matière de licenciement ou d'autres
+   sanctions, ainsi que durant toute l'exécution du contrat, par exemple à
+   l'égard de la formation, de la rémunération ou des promotions. Toute
+   décision de l'employeur doit être prise en fonction de critères
+   professionnels, et non sur des considérations qui s'apparentent à une
+   discrimination raciale.
+
+   Le Code précise les critères qui ne sauraient être pris en compte. Il
+   s'agit notamment de l'appartenance ou de la non-appartenance, vraie ou
+   supposée, à une ethnie, une nation ou une prétendue race, des
+   convictions religieuses, du nom de famille, du lieu de résidence ou de
+   la domiciliation bancaire, ou encore de la capacité à s'exprimer dans
+   une langue autre que le français.
+
+   Aussi, dans la fonction publique la discrimination est prohibée par
+   l'article 6 de la loi n° 83-634 du 13 juillet 1983 dite "Le Pors". La
+   non discrimination est également prévu par la loi n° 2008-496 du 27 mai
+   2008. Un agent public ne doit faire l'objet d'aucune discrimination,
+   notamment de la part de sa hiérarchie, en raison de ses opinions, son
+   sexe, son origine ou son état de santé. Cette interdiction s'applique
+   aussi bien au recrutement qu'au déroulement de carrière et concerne les
+   fonctionnaires comme les contractuels.
+
+   Que ça soit dans le secteur privé ou public, la discrimination raciale
+   au travail constitue également une infraction pénale. L'article 225-1
+   du Code pénal définit la discrimination comme toute distinction opérée
+   entre les personnes physiques à raison de certains critères, parmi
+   lesquels leur origine, leur apparence physique, leur patronyme, ou
+   encore leur appartenance ou leur non-appartenance, vraie ou supposée, à
+   une ethnie, une nation, une race ou une religion déterminée.
+
+
+Caractérisation de la discrimination raciale au travail
+
+   Il y a discrimination... Lorsque l'employeur traite différemment ses
+   salariés, en se fondant notamment sur
+     * l'origine géographique, le nom de famille, le lieu de résidence
+     * l'appartenance ou la non-appartenance, réelle ou supposée, à une
+       ethnie ou à une nation
+     * le fait de parler une autre langue que le français
+     * les convictions religieuses
+
+   La discrimination est directe lorsque la personne est traitée de
+   manière moins favorable qu'une autre qui se trouve dans une situation
+   comparable. Elle est indirecte lorsqu'une disposition, un critère ou
+   une pratique, neutre en apparence, entraîne un désavantage particulier
+   pour des personnes par rapport à d'autres. Par exemple, une mesure
+   défavorable aux travailleurs à temps partiel peut constituer une
+   discrimination indirecte en raison du sexe, si la grande majorité des
+   travailleurs à temps partiel sont des femmes.
+
+   Bien entendu, toutes les différences de traitement ne sont pas
+   interdites. Elles peuvent être permises lorsqu'elles sont prévues par
+   la loi afin de répondre à une exigence professionnelle, et qu'elles
+   sont proportionnées à leur objectif légitime. Ces exceptions concernent
+   souvent l'âge, le handicap, le sexe ou le lieu de résidence.
+
+
+La discrimination raciale au travail, une forme de harcèlement ?
+
+   Concrètement... constitue une discrimination raciale au travail le fait
+   d'annoncer à une candidate qu'elle ne pourra être embauchée que dans
+   quelques semaines, lorsque la directrice sera en vacances, car cette
+   dernière ne fait « pas confiance aux maghrébines » (Cour de cassation,
+   18 janvier 2012).
+
+   Le fait de demander à un salarié de se faire appeler «Laurent» plutôt
+   que «Mohammed» constitue également une discrimination raciale au
+   travail (Cour de cassation, 10 novembre 2009). L'invocation du moindre
+   prétexte ne permet pas d'écarter la discrimination. Ainsi, dans cette
+   affaire, la Cour de cassation a rejeté l'argument selon lequel ce
+   changement de prénom était justifié par l'existence de plusieurs
+   salariés prénommés Mohammed au sein de l'entreprise.
+
+   La discrimination raciale peut aussi prendre la forme d'un harcèlement
+   moral. Des propos racistes répétés, même sous la forme de prétendues «
+   blagues racistes », sont de nature à constituer une discrimination.
+
+   La discrimination fondée sur la religion est en principe interdite,
+   mais elle pose des problèmes particuliers. En vertu du principe de
+   laïcité, une obligation de neutralité religieuse s'impose aux agents
+   publics. En revanche, les salariés du privé ne peuvent se voir
+   interdire de manière générale le port de signes religieux. Une telle
+   mesure ne sera permise qu'à la condition d'être justifiée par la nature
+   de la tâche à accomplir et, par exemple, des considérations de sécurité
+   ou d'image de l'entreprise. Une différence doit en particulier être
+   faite entre les salariés selon qu'ils sont ou non en contact avec le
+   public. Notons enfin qu'une interdiction d'apparence neutre mais qui
+   vise en réalité une seule religion particulière constitue une
+   discrimination.
+
+
+Que faire en cas de discrimination raciale au travail ? À qui s'adresser ?
+
+   La victime d'une discrimination raciale au travail peut déposer une
+   plainte pénale au commissariat de police le plus proche du lieu de
+   l'infraction, à la gendarmerie ou par lettre au Procureur de la
+   République. Naturellement, la lettre doit préciser la nature, la date,
+   le lieu de l'infraction, et idéalement son auteur. Il convient aussi de
+   joindre tous les éléments de preuves : copie des certificats médicaux
+   (en cas de violences), les témoignages écrits et sonores, les noms du
+   ou des témoins, leurs adresses, les copies de photographies, les arrêts
+   de travail, etc...
+
+   Toute discrimination est passible de 3 ans de prison et de 45 000 euros
+   d'amende. Si les auteurs ont agi comme agents publics ou comme
+   responsables d'un lieu accueillant du public, les peines peuvent aller
+   jusqu'à 5 ans de prison et 75 000 euros d'amende. Les personnes morales
+   peuvent également être déclarées pénalement responsables.
+
+   Face à une discrimination raciale au travail, il convient également de
+   saisir le Conseil de Prud'hommes afin d'obtenir l'annulation de la
+   mesure discriminatoire et la réparation du préjudice subi. La victime
+   devra présenter au juge les éléments laissant supposer l'existence
+   d'une discrimination alors que l'auteur supposé devra prouver que sa
+   décision est justifiée par des éléments objectifs et non
+   discriminatoire. Le «testing» constitue désormais un mode de preuve
+   admis par la loi pour établir une discrimination raciale au travail ou
+   un « délit de faciès ».
+
+   L'agent public ayant été discriminé en raison de ses origines peut
+   saisir le Tribunal Administratif pour discrimination.
+
+   Dans tous les cas, l'Inspection de travail et / ou le Défenseur des
+   droits peuvent être saisis. Ils assisteront la victime dans ses
+   démarches.
+
+
+   Tout récemment, par jugement en date du 17 décembre 2019, le conseil
+   des prud'hommes de Paris vient de reconnaître et de condamner pour la
+   première fois la « discrimination raciale et systémique » à l'encontre
+   de 25 travailleurs sans papiers maliens employés dans le secteur du
+   bâtiment. Assistées par la CGT Paris et le Défenseur des droits, les
+   victimes obtiennent 34 000 euros de dommages et intérêts et sont
+   rétablies dans leurs droits.
+
+   Le CPH Paris a reconnu l'existence d'un « système organisé de
+   domination raciste », où des travailleurs étaient cantonnés à des
+   tâches dangereuses et placés en bas de l'échelle de l'organisation du
+   travail, considérés « comme des entités interchangeables et
+   négligeables ».
+
+Un label pour prévenir les discriminations et promouvoir la diversité
+
+   Mais mieux vaut prévenir que guérir... en 2008, l'État a créé le label
+   diversité avec les partenaires sociaux et des experts pour reconnaître
+   l'engagement effectif pour prévenir les discriminations et promouvoir
+   la diversité dans les secteurs public et privé. Il permet aux
+   ministères, collectivités territoriales, établissements de santé,
+   entreprises ou associations d'évaluer leurs processus de ressources
+   humaines et de les améliorer. Le label est attribué pour une durée de 4
+   ans, renouvelable.
+   [35]Droit social-travail
+
+D'autres articles pourraient vous intéresser
+
+   Propriété intellectuelle
+
+[36]Droit d'auteur : musique et déclaration SACEM
+
+   Déclaration à la SACEM d'une musique. Tous les éléments clés expliqués
+   par Nicolas Rebbot, avocat en droit d'auteur et marques.
+   Maître Nicolas Rebbot janv. 9, 2020
+
+   Droit des médias
+
+[37]Autorisation droit à l'image, qu'est-ce qui est permis ?
+
+   Autorisation droit à l'image : l'avocat en droit d'auteur Mathieu
+   Berhelot vous explique tout ce qui est permis sur la question.
+   Maître Mathieu Berthelot févr. 6, 2020
+
+   Droit des médias
+
+[38]Droit d'auteur, la directive européenne est adoptée
+
+   Nicolas Rebbot, avocat en droit d'auteur et marques, vous explique la
+   directive sur le droit d'auteur et les changements qu'elle apporte au
+   sein de...
+   Maître Nicolas Rebbot juil. 7, 2018
+
+Rejoignez +10 000 personnes ^T^
+
+qui reçoivent chaque semaine du contenu juridique indispensable.
+
+References
+
+   Visible links:
+   1. https://blog.callalawyer.fr/rss.xml
+   2. https://blog.callalawyer.fr/
+   3. https://blog.callalawyer.fr/droit-social-travail/decrimination-raciale-travail
+   4. https://blog.callalawyer.fr/droit-social-travail/decrimination-raciale-travail
+   5. https://blog.callalawyer.fr/tag/droit-commercial-soci%C3%A9t%C3%A9s
+   6. https://blog.callalawyer.fr/tag/droit-social-travail
+   7. https://blog.callalawyer.fr/tag/droit-de-la-concurrence
+   8. https://blog.callalawyer.fr/tag/droit-fiscal-des-affaires
+   9. https://blog.callalawyer.fr/tag/droit-immobilier
+  10. https://blog.callalawyer.fr/tag/droit-p%C3%A9nal-des-affaires
+  11. https://blog.callalawyer.fr/tag/droit-public
+  12. https://blog.callalawyer.fr/tag/proc%C3%A9dures-collectives
+  13. https://blog.callalawyer.fr/tag/propri%C3%A9t%C3%A9-intellectuelle
+  14. https://blog.callalawyer.fr/tag/donn%C3%A9es-personnelles
+  15. https://blog.callalawyer.fr/tag/contentieux-des-affaires
+  16. https://blog.callalawyer.fr/tag/nouvelles-technologies
+  17. https://blog.callalawyer.fr/tag/droit-des-m%C3%A9dias
+  18. https://blog.callalawyer.fr/droit-social-travail/decrimination-raciale-travail
+  19. https://blog.callalawyer.fr/droit-social-travail/decrimination-raciale-travail
+  20. https://blog.callalawyer.fr/tag/assurance-sant%C3%A9
+  21. https://blog.callalawyer.fr/tag/droit-p%C3%A9nal
+  22. https://blog.callalawyer.fr/tag/droit-social-travail
+  23. https://blog.callalawyer.fr/tag/droit-de-la-consommation
+  24. https://blog.callalawyer.fr/tag/droit-immobilier
+  25. https://blog.callalawyer.fr/tag/droit-routier
+  26. https://blog.callalawyer.fr/tag/droit-public
+  27. https://blog.callalawyer.fr/tag/droit-de-la-famille
+  28. https://blog.callalawyer.fr/tag/fiscalit%C3%A9-des-particuliers
+  29. https://blog.callalawyer.fr/tag/donn%C3%A9es-personnelles
+  30. https://blog.callalawyer.fr/tag/droit-des-%C3%A9trangers
+  31. https://blog.callalawyer.fr/tag/avocat
+  32. https://callalawyer.fr/login
+  33. https://blog.callalawyer.fr/droit-social-travail/decrimination-raciale-travail
+  34. https://blog.callalawyer.fr/author/sophia-toloudi
+  35. https://blog.callalawyer.fr/tag/droit-social-travail
+  36. https://blog.callalawyer.fr/propriete-intellectuelle/musique-declaration-sacem
+  37. https://blog.callalawyer.fr/droit-media-communications/autorisation-droit-image
+  38. https://blog.callalawyer.fr/droit-media-communications/droit-auteur-directive-adoptee
+
+   Hidden links:
+  40. https://blog.callalawyer.fr/propriete-intellectuelle/musique-declaration-sacem
+  41. https://blog.callalawyer.fr/droit-media-communications/droit-auteur-directive-adoptee

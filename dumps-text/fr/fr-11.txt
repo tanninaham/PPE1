@@ -1,0 +1,408 @@
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) Menu
+   [1]Libération
+      [2]Politique   [3]International   [4]CheckNews   [5]Culture
+   [6]Idées et Débats   [7]Société   [8]Environnement   [9]Economie
+   [10]Lifestyle   [11]Portraits   [12]Sports   [13]Sciences
+   (BUTTON)
+     * [14]Accueil(S'ouvre dans une nouvelle fenêtre)
+     * [15]Fil Info(S'ouvre dans une nouvelle fenêtre)
+     * [16]Politique (BUTTON)
+          + [17]Elections
+     * [18]International (BUTTON)
+          + [19]Europe
+          + [20]Amérique
+          + [21]Afrique
+          + [22]Moyen-Orient
+          + [23]Asie Pacifique
+     * [24]CheckNews
+     * [25]Culture (BUTTON)
+          + [26]Arts
+          + [27]Cinéma
+          + [28]Jeux vidéo
+          + [29]Musique
+          + [30]Photographie
+          + [31]Livres
+          + [32]BD
+          + [33]Scènes
+          + [34]Séries
+     * [35]Idées et Débats (BUTTON)
+          + [36]Opinions
+          + [37]Editorial
+          + [38]Tribunes
+     * [39]Société (BUTTON)
+          + [40]Police / Justice
+          + [41]Droits des femmes
+          + [42]Education
+          + [43]Familles
+          + [44]Logement
+          + [45]Religions
+          + [46]Santé
+          + [47]Sexualités et genres
+          + [48]Ville
+     * [49]Environnement (BUTTON)
+          + [50]Agriculture
+          + [51]Alimentation
+          + [52]Biodiversité
+          + [53]Climat
+          + [54]Nucléaire
+          + [55]Pollution
+     * [56]Economie (BUTTON)
+          + [57]Economie numérique
+          + [58]Médias
+          + [59]Social
+          + [60]Transports
+     * [61]Lifestyle (BUTTON)
+          + [62]Design
+          + [63]High tech
+          + [64]Mode
+          + [65]Gastronomie
+          + [66]Voyages
+     * [67]En images(S'ouvre dans une nouvelle fenêtre)
+     * [68]Portraits
+     * [69]Sports (BUTTON)
+          + [70]Football
+          + [71]Cyclisme
+          + [72]Jeux Olympiques
+          + [73]Tennis
+          + [74]Rugby
+          + [75]Sports mécaniques
+     * [76]Sciences (BUTTON)
+          + [77]Archéologie
+          + [78]Biologie
+          + [79]Espace
+          + [80]Histoire
+     * [81]Plus (BUTTON)
+          + [82]Séries d'été
+          + [83]Numéros spéciaux
+     * [84]Forums & événements
+     * [85]Archives (BUTTON)
+          + [86]2023(S'ouvre dans une nouvelle fenêtre)
+          + [87]2022(S'ouvre dans une nouvelle fenêtre)
+          + [88]2021(S'ouvre dans une nouvelle fenêtre)
+     * [89]Lire le journal(S'ouvre dans une nouvelle fenêtre)
+     * [90]La boutique(S'ouvre dans une nouvelle fenêtre)
+     * [91]Les newsletters(S'ouvre dans une nouvelle fenêtre)
+     * [92]Les unes(S'ouvre dans une nouvelle fenêtre)
+     * [93]Foire aux questions(S'ouvre dans une nouvelle fenêtre)
+     * [94]Contactez-nous(S'ouvre dans une nouvelle fenêtre)
+     * [95]Petites annonces(S'ouvre dans une nouvelle fenêtre)
+     *
+
+   [96]Accueil / [97]Idées et Débats
+   TRIBUNE
+
+Discrimination raciale, un héritage français
+
+   par [98]Michel Wieviorka, sociologue et George Pau-Langevin, députée
+   socialiste
+   publié le 17 février 2009 à 6h51
+   (mis à jour le 17 février 2009 à 6h51)
+
+   La France, enthousiaste après l'élection du premier président des
+   Etats-Unis afro-américain, s'interroge : pourquoi pas chez nous ?
+   Réponse : parce que les Etats-Unis ont agi, et pas la France.
+   Ils partaient pourtant de très loin, avec des éléments d'apartheid
+   maintenus jusque dans les années 60. Mouvements pour les droits
+   civiques, volontarisme politique avec la discrimination positive dans
+   les universités et l'administration, émergence progressive de la
+   diversité dans les élites politiques, médiatiques, économiques : Barack
+   Obama ne sort pas de nulle part, il est l'aboutissement d'un mouvement
+   de fond.
+
+   Rien de tel en France. Au nom d'un universalisme abstrait, la
+   République a longtemps refusé de reconnaître sa nouvelle diversité.
+   Dans les années 80 et 90, parler de multiculturalisme, même tempéré,
+   c'était vite risquer d'être traité de communautariste ou de casseur de
+   la République.
+
+   La situation, certes, évolue. Des mesures volontaristes apparaissent
+   pour combattre les discriminations. On nous invite à sauver un des
+   éléments du modèle français, l'élitisme républicain, en élargissant la
+   base sociale au sein de laquelle se recrutent les étudiants des grandes
+   écoles, ou assimilables, telle Sciences-Po. Il est vrai que cette base
+   est devenue singulièrement étroite, et qu'il vaudrait mieux que des
+   jeunes des milieux populaires puissent eux aussi tenter de rejoindre
+   les élites. La droite l'a compris, en témoigne la promotion récente au
+   gouvernement de Richard Descoings, l'homme qui a transformé dans
+   un même mouvement l'accès à Sciences-Po, et l'institution elle-même.
+   Mais faire face à «la diversité» ne peut se limiter à redonner vie à la
+   méritocratie républicaine, héritage perdu de la III^e République. C'est
+   toute la société qui doit reconnaître sa diversité.
+
+   Les difficultés sociales sont considérables. Elles affectent les
+   dernières générations de Français issus de l'immigration, qui subissent
+   massivement le tarissement de la croissance et le chômage de masse. La
+   panne de l'intégration est d'abord sociale : l'ascenseur social s'est
+   bloqué et les derniers arrivés restent au sous-sol. Cette réalité est
+   renforcée par la polarisation territoriale des inégalités et par la
+   relégation des plus pauvres dans les ghettos : la France ne «fait plus
+   société», ses territoires font sécession. Pour y répondre,
+   l'égalitarisme formel de la République d'hier est inopérant. Les
+   injonctions égalitaristes sommant les migrants de s'intégrer sans leur
+   en donner les ressources sont des leurres. Il faut adopter des
+   politiques sociales et territoriales radicales, visant à l'égalité
+   réelle.
+
+   Mais les problèmes de la diversité ne sont pas que sociaux. Ils
+   concernent avant tout certains groupes, de quelque nom qu'on les
+   appelle - issus de l'immigration, minorités visibles, Arabes,
+   Noirs, etc. L'étudiant au nom arabe qui ne trouve pas de stage,
+   contrairement à ses camarades de même milieu social au patronyme bien
+   «français», le diplômé noir qui n'est jamais convoqué pour un entretien
+   d'embauche ne sont pas seulement pénalisés pour des raisons sociales.
+
+   La discrimination raciale existe. Elle est inscrite dans les schémas
+   mentaux français : l'altérité de la couleur de peau, un héritage
+   colonial mal digéré, une vision culturaliste de la France en sont des
+   facteurs puissants. Elle a été renforcée par l'agitation politique
+   des années lepénistes - certes sans véritable conséquence dans le droit
+   français mais avec un fort impact psychologique «désintégrateur» : le
+   débat sur la nationalité, avec la volonté de remettre en cause le droit
+   du sol au profit d'un droit du sang «gaulois» ; la crispation sur
+   l'islam, avec le rejet du voile et des mosquées ; l'affirmation d'une
+   politique d'immigration choisie, renvoyant en miroir aux Français issus
+   de l'immigration le stigmate de «Français subis».
+
+   C'est pourquoi des politiques spécifiques sont nécessaires pour faire
+   reculer les discriminations. Pour les sanctionner bien sûr mais avant
+   tout pour modifier les représentations collectives et faire admettre,
+   comme aux Etats-Unis, que la République est désormais diverse.
+
+   Il faut aujourd'hui avancer sur le terrain de la connaissance des
+   discriminations, mieux appréhender les effectifs et les difficultés
+   spécifiques de certaines populations. Le débat, légitime, sur «les
+   statistiques ethniques» ne doit pas faire oublier cette évidence : nous
+   avons besoin de données précises pour agir. Connaître notre société
+   dans ses dimensions culturelles, religieuses, d'origine nationale,
+   devrait contribuer à faire reculer le racisme. Et nous permettre de
+   tirer profit de notre diversité.
+
+   George Pau-Langevin est l'auteure d'un projet de loi qui sera présenté
+   jeudi à l'Assemblée.
+   (BUTTON) (BUTTON)
+   Dans la même rubrique
+   [99]
+
+Tentative de putsch au Brésil : la démocratie n'est jamais acquise
+
+   il y a 16 min
+   [100]
+
+Márcia Tiburi : «Le coeur du fascisme, qui réside dans la néantisation et la
+haine de l'autre, est à l'oeuvre au Brésil»
+
+   [101]Idées et Débats9 janv. 2023abonnés
+   TRIBUNE
+   [102]
+
+Les Kurdes, la plus grande nation sans Etat au monde
+
+   [103]Tribunes9 janv. 2023abonnés
+   TRIBUNE
+   [104]
+
+Avec «Tirailleurs», jamais les soldats africains n'auront ainsi été mis en
+avant
+
+   [105]Tribunes9 janv. 2023abonnés
+   Le portrait du jour
+   [106]
+
+Salomé Lelouch, elle planche
+
+   9 janv. 2023abonnés
+
+   © Libé 2022
+
+   © Libé 2022
+
+Dans l'actu
+
+     * [107]Réforme des retraites
+     * [108]Le gouvernement Borne
+     * [109]Crise énergétique
+     * [110]Réchauffement climatique
+     * [111]Inflation
+     * [112]Covid-19
+     * [113]Guerre en Ukraine
+     * [114]Révolte en Iran
+
+Services
+
+     * [115]S'abonner(Opens in new window)
+     * [116]La boutique(Opens in new window)
+     * [117]Contactez-nous(Opens in new window)
+     * [118]Donnez-nous votre avis(Opens in new window)
+     * [119]Foire aux questions(Opens in new window)
+     * [120]Proposer une tribune(Opens in new window)
+     * [121]Evénements Libé(Opens in new window)
+     * [122]Cours d'anglais(Opens in new window)
+     * [123]Petites annonces(Opens in new window)
+
+Conditions générales
+
+     * [124]Mentions légales(Opens in new window)
+     * [125]Charte éthique(Opens in new window)
+     * [126]CGVU(Opens in new window)
+     * [127]Protection des données personnelles(Opens in new window)
+     * [128]Gestion des cookies(Opens in new window)
+     * [129]Licence(Opens in new window)
+
+Où lire Libé?
+
+     * [130]Lire le journal(Opens in new window)
+     * [131]Les newsletters(Opens in new window)
+     * [132]Présentation de l'application(Opens in new window)
+     * [133]Application sur Android(Opens in new window)
+     * [134]Application sur iPhone / iPad(Opens in new window)
+     * [135]Archives
+
+   Libération
+
+References
+
+   Visible links:
+   1. https://www.liberation.fr/
+   2. https://www.liberation.fr/politique/
+   3. https://www.liberation.fr/international/
+   4. https://www.liberation.fr/checknews/
+   5. https://www.liberation.fr/culture/
+   6. https://www.liberation.fr/idees-et-debats/
+   7. https://www.liberation.fr/societe/
+   8. https://www.liberation.fr/environnement/
+   9. https://www.liberation.fr/economie/
+  10. https://www.liberation.fr/lifestyle/
+  11. https://www.liberation.fr/portraits/
+  12. https://www.liberation.fr/sports/
+  13. https://www.liberation.fr/sciences/
+  14. https://www.liberation.fr/
+  15. https://www.liberation.fr/fil-info/
+  16. https://www.liberation.fr/politique/
+  17. https://www.liberation.fr/politique/elections/
+  18. https://www.liberation.fr/international/
+  19. https://www.liberation.fr/international/europe/
+  20. https://www.liberation.fr/international/amerique/
+  21. https://www.liberation.fr/international/afrique/
+  22. https://www.liberation.fr/international/moyen-orient/
+  23. https://www.liberation.fr/international/asie-pacifique/
+  24. https://www.liberation.fr/checknews/
+  25. https://www.liberation.fr/culture/
+  26. https://www.liberation.fr/culture/arts/
+  27. https://www.liberation.fr/culture/cinema/
+  28. https://www.liberation.fr/culture/jeux-video/
+  29. https://www.liberation.fr/culture/musique/
+  30. https://www.liberation.fr/culture/photographie/
+  31. https://www.liberation.fr/culture/livres/
+  32. https://www.liberation.fr/culture/bd/
+  33. https://www.liberation.fr/culture/scenes/
+  34. https://www.liberation.fr/culture/series/
+  35. https://www.liberation.fr/idees-et-debats/
+  36. https://www.liberation.fr/idees-et-debats/opinions/
+  37. https://www.liberation.fr/idees-et-debats/editorial/
+  38. https://www.liberation.fr/idees-et-debats/tribunes/
+  39. https://www.liberation.fr/societe/
+  40. https://www.liberation.fr/societe/police-justice/
+  41. https://www.liberation.fr/societe/droits-des-femmes/
+  42. https://www.liberation.fr/societe/education/
+  43. https://www.liberation.fr/societe/familles/
+  44. https://www.liberation.fr/societe/logement/
+  45. https://www.liberation.fr/societe/religions/
+  46. https://www.liberation.fr/societe/sante/
+  47. https://www.liberation.fr/societe/sexualite-et-genres/
+  48. https://www.liberation.fr/societe/ville/
+  49. https://www.liberation.fr/environnement/
+  50. https://www.liberation.fr/environnement/agriculture/
+  51. https://www.liberation.fr/environnement/alimentation/
+  52. https://www.liberation.fr/environnement/biodiversite/
+  53. https://www.liberation.fr/environnement/climat/
+  54. https://www.liberation.fr/environnement/nucleaire/
+  55. https://www.liberation.fr/environnement/pollution/
+  56. https://www.liberation.fr/economie/
+  57. https://www.liberation.fr/economie/economie-numerique/
+  58. https://www.liberation.fr/economie/medias/
+  59. https://www.liberation.fr/economie/social/
+  60. https://www.liberation.fr/economie/transports/
+  61. https://www.liberation.fr/lifestyle/
+  62. https://www.liberation.fr/lifestyle/design/
+  63. https://www.liberation.fr/lifestyle/hightech/
+  64. https://www.liberation.fr/lifestyle/mode/
+  65. https://www.liberation.fr/lifestyle/gastronomie/
+  66. https://www.liberation.fr/lifestyle/voyages/
+  67. https://www.liberation.fr/en-images/
+  68. https://www.liberation.fr/portraits/
+  69. https://www.liberation.fr/sports/
+  70. https://www.liberation.fr/sports/football/
+  71. https://www.liberation.fr/sports/cyclisme/
+  72. https://www.liberation.fr/sports/jeux-olympiques/
+  73. https://www.liberation.fr/sports/tennis/
+  74. https://www.liberation.fr/sports/rugby/
+  75. https://www.liberation.fr/sports/sports-mecaniques/
+  76. https://www.liberation.fr/sciences/
+  77. https://www.liberation.fr/sciences/archeologie/
+  78. https://www.liberation.fr/sciences/biologie/
+  79. https://www.liberation.fr/sciences/espace/
+  80. https://www.liberation.fr/sciences/histoire/
+  81. https://www.liberation.fr/plus/
+  82. https://www.liberation.fr/plus/speciaux-cahier-ete/
+  83. https://www.liberation.fr/plus/numeros-speciaux/
+  84. https://www.liberation.fr/forums/
+  85. https://www.liberation.fr/archives/
+  86. https://www.liberation.fr/archives/2023/
+  87. https://www.liberation.fr/archives/2022/
+  88. https://www.liberation.fr/archives/2021/
+  89. https://journal.liberation.fr/
+  90. https://boutique.liberation.fr/
+  91. https://www.liberation.fr/newsletters/
+  92. http://unes.liberation.fr/
+  93. https://offre.liberation.fr/aide/
+  94. https://www.liberation.fr/contact/
+  95. https://petites-annonces.liberation.fr/
+  96. https://www.liberation.fr/
+  97. https://www.liberation.fr/idees-et-debats/
+  98. https://www.liberation.fr/auteur/michel-wieviorka/
+  99. https://www.liberation.fr/idees-et-debats/editorial/tentative-de-putsch-au-bresil-la-democratie-nest-jamais-acquise-20230109_APWJXRALTZDNJFPASETIMEFVB4/
+ 100. https://www.liberation.fr/idees-et-debats/marcia-tiburi-le-coeur-du-fascisme-qui-reside-dans-la-neantisation-et-la-haine-de-lautre-est-a-loeuvre-au-bresil-20230109_YB7QM6GRBVGYPIFBLZU5JRHBTA/
+ 101. https://www.liberation.fr/idees-et-debats/
+ 102. https://www.liberation.fr/idees-et-debats/tribunes/les-kurdes-la-plus-grande-nation-sans-etat-au-monde-20230109_LA526U5RUVCEVI5RT62QUKA62U/
+ 103. https://www.liberation.fr/idees-et-debats/tribunes/
+ 104. https://www.liberation.fr/idees-et-debats/tribunes/avec-tirailleurs-jamais-les-soldats-africains-nauront-ainsi-ete-mis-en-avant-20230109_4Z5OIG42VZBEFPCZ6XJTZ5NW6U/
+ 105. https://www.liberation.fr/idees-et-debats/tribunes/
+ 106. https://www.liberation.fr/portraits/salome-lelouch-elle-planche-20230109_DXJBWXDTOZA2PPM6XEZOWWB374/
+ 107. https://www.liberation.fr/tags/reforme-des-retraites/
+ 108. https://www.liberation.fr/dossier/gouvernement-elisabeth-borne/
+ 109. https://www.liberation.fr/tags/energie/
+ 110. https://www.liberation.fr/tags/rechauffement-climatique/
+ 111. https://www.liberation.fr/tags/inflation/
+ 112. https://www.liberation.fr/dossier/covid-19/
+ 113. https://www.liberation.fr/dossier/ukraine-la-crise/
+ 114. https://www.liberation.fr/tags/iran/
+ 115. https://abo.liberation.fr/
+ 116. https://boutique.liberation.fr/
+ 117. https://www.liberation.fr/contact/
+ 118. https://libe-etudes.typeform.com/to/LZ9iwHae/
+ 119. https://aideliberation.crisp.help/fr/
+ 120. https://www.liberation.fr/proposer-une-tribune/
+ 121. https://offre.liberation.fr/evenements/
+ 122. https://cours-anglais.liberation.fr/
+ 123. https://petites-annonces.liberation.fr/
+ 124. https://www.liberation.fr/mentions-legales/
+ 125. https://www.liberation.fr/charte-ethique/
+ 126. https://www.liberation.fr/cgvu/
+ 127. https://www.liberation.fr/protection-des-donnees-personnelles/
+ 128. https://www.liberation.fr/gestions-des-cookies/
+ 129. https://www.liberation.fr/licence/
+ 130. https://journal.liberation.fr/
+ 131. https://www.liberation.fr/newsletters/
+ 132. https://www.liberation.fr/application-mobile/
+ 133. https://play.google.com/store/apps/details?id=com.visuamobile.liberation&hl=fr&gl=US
+ 134. https://apps.apple.com/fr/app/lib%C3%A9ration-toute-lactualit%C3%A9/id336173383/
+ 135. https://www.liberation.fr/archives/
+
+   Hidden links:
+ 137. https://www.liberation.fr/idees-et-debats/editorial/tentative-de-putsch-au-bresil-la-democratie-nest-jamais-acquise-20230109_APWJXRALTZDNJFPASETIMEFVB4/
+ 138. https://www.liberation.fr/portraits/salome-lelouch-elle-planche-20230109_DXJBWXDTOZA2PPM6XEZOWWB374/
+ 139. https://www.facebook.com/Liberation/
+ 140. https://twitter.com/libe
+ 141. https://www.liberation.fr/arc/outboundfeeds/collection/accueil-une/?outputType=xml

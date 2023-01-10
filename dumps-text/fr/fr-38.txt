@@ -1,0 +1,678 @@
+   REFRESH(600 sec):
+   [1]https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d
+   -agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racism
+   e-7f1772d7f6b6fefd6b11a117c0eab7c4
+   #[2]Recherche sur Boursorama
+
+   [3]Aller au contenu principal [4]Activer le contraste adaptéDésactiver
+   le contraste adapté
+
+   [5]Bourse
+
+   Boursomarkets
+   Plus de 40 000 produits accessibles à 0EUR de frais de courtage
+   Découvrir Boursomarkets
+
+   ____________________
+   (BUTTON)
+   (BUTTON) Menu
+    1. (BUTTON)
+       Rechercher
+    2. Aide
+    3.
+         1. (BUTTON) Espace Membre
+         2. [6]Espace Client
+         3. (BUTTON) Connexion
+            (BUTTON)
+               o Sur quel site souhaitez-vous vous connecter ?
+               o [7]Accès Espace Client Boursorama Banque
+               o (BUTTON) Espace Membre Boursorama.com
+
+   (BUTTON) Menu
+
+    1. (BUTTON)
+       Rechercher
+    2. Aide
+    3.
+         1. (BUTTON) Espace Membre
+         2. [8]Espace Client
+         3. (BUTTON) Connexion
+            (BUTTON)
+               o Sur quel site souhaitez-vous vous connecter ?
+               o [9]Accès Espace Client Boursorama Banque
+               o (BUTTON) Espace Membre Boursorama.com
+
+   (BUTTON) Menu
+
+     * [10]Actu & Éco
+     * [11]Bourse
+     * [12]Patrimoine
+          + [13]Patrimoine
+          + [14]Immobilier
+               o [15]Immobilier
+               o [16]Toute la rubrique Immobilier
+               o [17]Annonces immobilières
+               o [18]Actualités
+               o [19]Prix de l'immobilier
+               o [20]Crédit immobilier
+               o [21]Crowdfunding Immobilier N!
+               o [22]Propriétaires / locataires
+               o [23]Défiscalisation locatif
+               o [24]Investissement locatif
+               o [25]SCPI-OPCI
+                    # [26]SCPI-OPCI
+                    # [27]Accueil SCPI-OPCI
+                    # [28]Actualités
+                    # [29]Recherche
+                    # [30]Le marché des SCPI
+               o [31]Outils et simulateurs
+                    # [32]Outils et simulateurs
+                    # [33]Accueil Outils et simulateurs
+                    # [34]Calcul mensualité
+                    # [35]Capacité d'emprunt
+                    # [36]Montant Crédit
+                    # [37]Rachat Crédit
+                    # [38]Prêt Relais
+                    # [39]Frais de notaire
+                    # [40]Pinel
+                    # [41]Censi-Bouvard
+          + [42]Assurance Vie
+               o [43]Assurance Vie
+               o [44]Toute la rubrique Assurance Vie
+               o [45]Actualités
+               o [46]Fiscalité de l'assurance vie
+               o [47]Outils et simulateurs
+          + [48]Epargne
+               o [49]Epargne
+               o [50]Toute la rubrique Epargne
+               o [51]Actualités
+               o [52]Placements bancaires
+               o [53]Placements boursiers
+               o [54]Placements plaisir
+               o [55]Outils et simulateurs
+                    # [56]Outils et simulateurs
+                    # [57]Accueil Outils et simulateurs
+                    # [58]CSL
+                    # [59]Livret A
+                    # [60]LDD
+          + [61]Argent au quotidien
+               o [62]Argent au quotidien
+               o [63]Toute la rubrique Argent au quotidien
+               o [64]Actualités
+               o [65]Banque
+               o [66]Crédit
+               o [67]Assurance et prévoyance
+               o [68]Famille
+               o [69]Outils et simulateurs
+                    # [70]Outils et simulateurs
+                    # [71]Accueil Outils et simulateurs
+                    # [72]Prêt perso
+                    # [73]Crédit auto
+                    # [74]Frais bancaires
+                    # [75]Salaire Brut / Net
+                    # [76]Frais kilométriques
+                    # [77]Prévoyance
+                    # [78]Convertisseur inflation
+                    # [79]Taux d'endettement
+          + [80]Impôts
+               o [81]Impôts
+               o [82]Toute la rubrique Impôts
+               o [83]Actualités
+               o [84]Impôts sur le revenu
+               o [85]Impôts fonciers
+               o [86]IFI-ISF
+               o [87]Déductions / réductions d'impôts
+               o [88]Défiscalisation
+               o [89]Outils et simulateurs
+                    # [90]Outils et simulateurs
+                    # [91]Accueil Outils et simulateurs
+                    # [92]IR
+                    # [93]Prélévement à la source
+                    # [94]IFI
+          + [95]Retraite
+               o [96]Retraite
+               o [97]Toute la rubrique Retraite
+               o [98]Actualités
+               o [99]Placements retraite
+               o [100]Outils et simulateurs
+                    # [101]Outils et simulateurs
+                    # [102]Accueil Outils et simulateurs
+                    # [103]Simulateur retraite
+                    # [104]Plan épargne retraite (PER)
+                    # [105]Réforme Retraite simulation et calcul retraite
+          + [106]Succession
+               o [107]Succession
+               o [108]Actualités
+               o [109]Transmission
+          + [110]Dossiers spéciaux
+          + [111]Forum
+     * [112]Conso
+     * [113]Vidéos
+     * [114]Boursorama Banque
+
+   Espace Membre Boursorama
+   (BUTTON)
+   Message d'erreur
+
+   Erreur d'authentification
+   Message d'erreur
+
+   Votre compte a été clôturé.
+   Message de confirmation
+
+   Vous êtes authentifié. Nous chargeons votre espace membre.
+   Message d'information
+
+   Message d'alerte
+
+   Pour des raisons de sécurité et pour continuer à accéder à votre espace
+   membre, nous vous remercions de bien vouloir valider votre compte
+   membre en cliquant sur le lien suivant : [115]Je valide mon compte
+   membre
+   Vous allez recevoir un email à l'adresse indiquée lorsque vous aviez
+   créé votre compte.
+   Cliquez ensuite sur le lien présent dans le mail. Vous pourrez alors de
+   nouveau accéder à votre compte membre.
+   Si vous n'avez pas reçu cet email, [116]contactez-nous
+   Message d'erreur
+
+   Message de confirmation
+
+   Un email de confirmation vient de vous être adressé.
+   ____________________
+   (BUTTON) Votre mot de passe est caché. ____________________
+     * 8 caractères minimum
+     * 1 majuscule
+     * 1 minuscule
+
+     * 1 chiffre
+     * 1 caractère spécial
+     * Différent de votre pseudo
+     * Les deux mots de passe sont identiques
+
+   [ ] Se souvenir de moi
+   (BUTTON) Mot de passe oublié ?
+     __________________________________________________________________
+
+   (BUTTON) Se connecter
+
+   Bénéficiez gratuitement de fonctionnalités et de services additionnels.
+   [117]Devenez membre
+
+   Identifiant/Mot de passe oublié
+   (BUTTON)
+   Si vous êtes Membre de la Communauté Boursorama, veuillez indiquer
+   l'adresse email que vous avez fournie lors de votre enregistrement pour
+   recevoir votre identifiant et/ou ré-initialiser votre mot de passe :
+   ____________________
+     __________________________________________________________________
+
+   (BUTTON) Réinitialiser mon mot de passe
+
+   Nouveau sur Boursorama ? [118]Devenez membre
+
+   Fermer
+   Message d'erreur
+
+     * [119]Accueil
+     *
+     * [120]Patrimoine
+     *
+     * Location : beaucoup d'agences pratiquent encore la discrimination
+       raciale, dénonce SOS Racisme
+
+     * [121]12
+     *
+     *
+     *
+     * [ ]
+     *
+
+   Connectez-vous pour conserver cet article et le lire plus tard.
+   (BUTTON) Connexion membre [122]Connexion client
+   Nouveau sur Boursorama ? [123]Devenez membre gratuitement
+
+Location : beaucoup d'agences pratiquent encore la discrimination raciale,
+dénonce SOS Racisme
+
+   information fournie par Boursorama avec Newsgene o 21/03/2022 à 14:40
+     * [124]12
+     *
+     *
+     *
+     * [ ]
+     *
+
+   SOS Racisme n'a noté qu'une faible diminution de la pratique de la
+   discrimination raciale par les agences immobilières. Photo
+   d'illustration. (Schluesseldienst / Pixabay)
+
+   SOS Racisme n'a noté qu'une faible diminution de la pratique de la
+   discrimination raciale par les agences immobilières. Photo
+   d'illustration. (Schluesseldienst / Pixabay)
+
+Après une précédente étude il y a trois ans, SOS Racisme a mené une campagne
+de testing pour savoir si les agences immobilières appliquaient des critères
+de discrimination raciale pour les locations. Les mentalités ont peu bougé,
+avec près de la moitié des agences qui adoptent cette pratique.
+
+   Les conclusions de la nouvelle campagne de testing menée par SOS
+   Racisme sont implacables. 48,50 % des 136 agences immobilières auditées
+   accèdent aux exigences discriminatoires des propriétaires des logements
+   dont elles gèrent la location. Pour le besoin de cette étude, les
+   militants de SOS Racisme se sont fait passer pour des propriétaires de
+   logements auprès des agences immobilières, explique [125]franceinfo .
+   Ils ont exigé que des règles discriminatoires soient appliquées dans la
+   sélection du locataire.
+
+Rupture d'égalité face à la location
+
+   Bien qu'elles puissent remplir toutes les conditions de solvabilité,
+   les personnes d'origine maghrébine ou subsaharienne n'ont pas les mêmes
+   possibilités d'accès au logement. Elles « ont une chance sur deux de
+   contacter une agence qui accepterait de pratiquer ou de laisser
+   pratiquer une discrimination à leur endroit » , a dénoncé SOS Racisme.
+
+   Certaines agences laissent le propriétaire choisir les futurs
+   locataires de son logement. Parmi elles, pour l'aider dans son choix,
+   plus d'une sur quatre (32 sur les 136 du panel) écartent « les profils
+   dits arabes ou noirs afin d'éviter les problèmes de voisinage » ,
+   assure l'association. 34 agences sur 136 font, elles, directement une
+   sélection en appliquant un critère discriminatoire.
+
+Discrimination illégale
+
+   Un peu moins d'une agence sur deux (70 agences sur 136) refuse
+   d'effectuer une sélection sur la base d'un critère discriminatoire
+   racial. Les trois-quarts des agences immobilières testées ont précisé
+   que toutes formes de discrimination était interdite.
+
+   En comparant le résultat de ce testing avec le dernier en date, réalisé
+   en 2019, SOS Racisme conclut cependant que « les pratiques
+   discriminatoires dans le secteur de l'immobilier perdurent » . En
+   effet, 51 % des agences acceptaient alors d'appliquer une règle
+   discriminatoire. L'association a déploré que des agences déjà mises en
+   cause il y a trois ans n'aient pas changé de comportement.
+     * [126]12
+     *
+     *
+     *
+     * [ ]
+     *
+
+   © Boursorama avec Newsgene
+
+   12 commentaires
+   Message d'alerte
+
+   Vous devez être membre pour ajouter un commentaire.
+   Vous êtes déjà membre ? [127]Connectez-vous
+   Pas encore membre ? [128]Devenez membre gratuitement
+     * (BUTTON)
+       (BUTTON) M5251423
+       27 mars o 08:43
+       Pourquoi ne puis je pas choisir mon locataire ? Qu'ils aillent
+       vivre en Asie ou en Afrique, et ils verront la réalité
+       (BUTTON) Signaler un abus
+         ______________________________________________________________
+
+   (BUTTON) Voir plus de commentaires
+
+Signaler le commentaire
+
+   Fermer
+
+   Annonces immobilières
+   [129]Appartement 3 pièces 65 m² Beauvais
+   [130]Appartement 3 pièces 65 m²
+   60000 Beauvais
+   92 000 EUR
+   [131]Terrain 411 m² Ressons-sur-Matz Terrain 411 m² Ressons-sur-Matz
+   [132]Terrain 411 m²
+   60490 Ressons-sur-Matz
+   34 000 EUR
+   [133]Maison 7 pièces 140 m² Sainte-Geneviève Maison 7 pièces 140 m²
+   Sainte-Geneviève
+   [134]Maison 7 pièces 140 m²
+   60730 Sainte-Geneviève
+   389 500 EUR
+   [135]Maison 7 pièces 134 m² Creil Maison 7 pièces 134 m² Creil
+   [136]Maison 7 pièces 134 m²
+   60100 Creil
+   278 000 EUR
+   [137]Maison 5 pièces 300 m² Compiègne Maison 5 pièces 300 m² Compiègne
+   [138]Maison 5 pièces 300 m²
+   60200 Compiègne
+   895 000 EUR
+   [139]Terrain 2 523 m² Formerie Terrain 2 523 m² Formerie
+   [140]Terrain 2 523 m²
+   60220 Formerie
+   25 000 EUR
+   [141]Maison 7 pièces 122 m² Valdampierre Maison 7 pièces 122 m²
+   Valdampierre
+   [142]Maison 7 pièces 122 m²
+   60149 Valdampierre
+   321 000 EUR
+   [143]Appartement 4 pièces 65 m² Beauvais Appartement 4 pièces 65 m²
+   Beauvais
+   [144]Appartement 4 pièces 65 m²
+   60000 Beauvais
+   92 000 EUR
+   [145]Maison 8 pièces 220 m² Bury Maison 8 pièces 220 m² Bury
+   [146]Maison 8 pièces 220 m²
+   60250 Bury
+   498 000 EUR
+   [147]Terrain 1 000 m² Lassigny Terrain 1 000 m² Lassigny
+   [148]Terrain 1 000 m²
+   60310 Lassigny
+   44 500 EUR
+
+   Actualité bourse
+     * 09.01.2023 o 19:45
+       Accord Belgique-Engie pour prolonger de 10 ans deux réacteurs
+       nucléaires
+     * 09.01.2023 o 19:05
+       La Bourse de Paris repasse au-dessus des 6.900 points
+     * 09.01.2023 o 18:45
+       Le debrief Bourse du 9 janvier : mais quel début d'année !
+
+   Actualité patrimoine
+     * 09.01.2023 o 17:02
+       o 2
+       Ce que vous risquez si vous vous garez dans la rue devant votre
+       propre garage
+     * 09.01.2023 o 15:32
+       Crédits et réductions d'impôt : un acompte bientôt versé à 9
+       millions de foyers
+     * 09.01.2023 o 14:00
+       o 1
+       Epargne : faut-il créer un nouveau "livret vert"?
+
+   Pages les plus populaires
+     * [149]Convertisseur de devises
+     * [150]Convertisseur dollar / euro
+     * [151]Convertisseur euro / dollar
+
+     * [152]Convertisseur livres / euro
+     * [153]Convertisseur euro / livre sterling
+     * [154]Convertisseur franc suisse / euro
+
+     * [155]Convertisseur euro / franc suisse
+     * [156]Convertisseur euro / dinar
+     * [157]Convertisseur euro / dirham
+
+   L'offre Boursorama Banque
+     * [158]Compte Bancaire
+     * [159]Offre METAL
+     * [160]ULTIM
+     * [161]WELCOME
+
+     * [162]FREEDOM
+     * [163]Service bancaire
+     * [164]Assurance
+     * [165]Épargne
+
+     * [166]Boursorama Pro
+     * [167]Crédit
+     * [168]Assurance Vie
+     * [169]Bourse
+
+     * [170]Boursomarkets
+     * [171]Devenir Client
+
+   Aide & Contact
+     * [172]Accessibilité
+     * [173]Contactez-nous
+     * [174]Foire aux Questions
+     * [175]Plan du site
+
+   Documentation Contractuelle
+     * [176]CGU Membres
+     * [177]Conditions générales
+     * [178]Politique d'exécution
+     * [179]Rapport de meilleure sélection 2021
+
+   Sécurité et données personnelles
+     * [180]Avertissement Légal
+     * [181]Gérer mes cookies
+     * [182]Politique de cookies
+     * [183]Politique de protection des données clients
+     * [184]Politique de protection des données membres et visiteurs
+     * [185]Politique de protection des données prospects
+
+   Nos sites
+     * [186]Affiliation
+     * [187]Boursorama Banque
+     * [188]Publicité
+     * [189]Site Groupe & Recrutement
+     __________________________________________________________________
+
+   Copyright © 2023
+
+   Boursorama Banque, SA au capital de 51 171 597,60 EUR - RCS Nanterre
+   351 058 151 - TVA FR 69 351 058 151 - 44 rue Traversière, CS 80134,
+   92772 BOULOGNE BILLANCOURT CEDEX
+
+     *
+     *
+     *
+
+References
+
+   Visible links:
+   1. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+   2. https://www.boursorama.com/search.xml
+   3. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#main-content
+   4. javascript://;/
+   5. javascript:///
+   6. https://clients.boursorama.com/connexion/
+   7. https://clients.boursorama.com/connexion/
+   8. https://clients.boursorama.com/connexion/
+   9. https://clients.boursorama.com/connexion/
+  10. https://www.boursorama.com/actualite-economique/
+  11. https://www.boursorama.com/bourse/
+  12. https://www.boursorama.com/patrimoine/
+  13. https://www.boursorama.com/patrimoine/
+  14. https://www.boursorama.com/patrimoine/immobilier/
+  15. https://www.boursorama.com/patrimoine/immobilier/
+  16. https://www.boursorama.com/patrimoine/immobilier/
+  17. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici
+  18. https://www.boursorama.com/patrimoine/immobilier/actualites/
+  19. https://www.boursorama.com/patrimoine/immobilier/prix/
+  20. https://www.boursorama.com/patrimoine/immobilier/credit/
+  21. https://www.boursorama.com/patrimoine/immobilier/crowdfunding-immobilier/
+  22. https://www.boursorama.com/patrimoine/immobilier/proprietaires-locataires/
+  23. https://www.boursorama.com/patrimoine/immobilier/defiscalisation-locatif/
+  24. https://www.boursorama.com/patrimoine/immobilier/investissement-locatif/
+  25. https://www.boursorama.com/patrimoine/immobilier/scpi-opci/
+  26. https://www.boursorama.com/patrimoine/immobilier/scpi-opci/
+  27. https://www.boursorama.com/patrimoine/immobilier/scpi-opci/
+  28. https://www.boursorama.com/patrimoine/immobilier/actualites/scpi
+  29. https://www.boursorama.com/patrimoine/immobilier/scpi-opci/scpi/recherche
+  30. https://www.boursorama.com/patrimoine/immobilier/scpi-opci/scpi-definition
+  31. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-mensualite
+  32. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-mensualite
+  33. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-mensualite
+  34. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-mensualite
+  35. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-capacite-emprunt
+  36. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-capacite-emprunt-a-partir-de-mensualite
+  37. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-rachat
+  38. https://www.boursorama.com/patrimoine/immobilier/outils-simulateurs/simulateur-pret-relais
+  39. https://www.boursorama.com/patrimoine/immobilier/simulateur/frais-notaire
+  40. https://www.boursorama.com/patrimoine/immobilier/simulateur/pinel
+  41. https://www.boursorama.com/patrimoine/immobilier/simulateur/censi-bouvard
+  42. https://www.boursorama.com/patrimoine/assurance-vie/
+  43. https://www.boursorama.com/patrimoine/assurance-vie/
+  44. https://www.boursorama.com/patrimoine/assurance-vie/
+  45. https://www.boursorama.com/patrimoine/assurance-vie/actualites/
+  46. https://www.boursorama.com/patrimoine/assurance-vie/fiscalite/
+  47. https://www.boursorama.com/patrimoine/assurance-vie/simulateur
+  48. https://www.boursorama.com/patrimoine/epargne/
+  49. https://www.boursorama.com/patrimoine/epargne/
+  50. https://www.boursorama.com/patrimoine/epargne/
+  51. https://www.boursorama.com/patrimoine/epargne/actualites/
+  52. https://www.boursorama.com/patrimoine/epargne/placements-bancaires/
+  53. https://www.boursorama.com/patrimoine/epargne/placements-boursiers/
+  54. https://www.boursorama.com/patrimoine/epargne/placements-plaisir/
+  55. https://www.boursorama.com/patrimoine/epargne/outils-simulateurs/simulateur-livret-developpement-durable
+  56. https://www.boursorama.com/patrimoine/epargne/outils-simulateurs/simulateur-livret-developpement-durable
+  57. https://www.boursorama.com/patrimoine/epargne/outils-simulateurs/simulateur-livret-developpement-durable
+  58. https://www.boursorama.com/patrimoine/epargne/outils-simulateurs/simulateur-compte-sur-livret
+  59. https://www.boursorama.com/patrimoine/epargne/outils-simulateurs/simulateur-livret-a
+  60. https://www.boursorama.com/patrimoine/epargne/outils-simulateurs/simulateur-livret-developpement-durable
+  61. https://www.boursorama.com/patrimoine/argent-au-quotidien/
+  62. https://www.boursorama.com/patrimoine/argent-au-quotidien/
+  63. https://www.boursorama.com/patrimoine/argent-au-quotidien/
+  64. https://www.boursorama.com/patrimoine/argent-au-quotidien/actualites/
+  65. https://www.boursorama.com/patrimoine/argent-au-quotidien/banque/
+  66. https://www.boursorama.com/patrimoine/argent-au-quotidien/credit/
+  67. https://www.boursorama.com/patrimoine/argent-au-quotidien/assurance-et-prevoyance/
+  68. https://www.boursorama.com/patrimoine/argent-au-quotidien/famille/
+  69. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-pret-perso
+  70. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-pret-perso
+  71. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-pret-perso
+  72. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-pret-perso
+  73. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-credit-auto
+  74. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/comparateur-frais-bancaires
+  75. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-salaire
+  76. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-frais-kilometriques
+  77. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-prevoyance
+  78. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/convertisseur-inflation
+  79. https://www.boursorama.com/patrimoine/argent-au-quotidien/outils-simulateurs/simulateur-taux-d-endettement
+  80. https://www.boursorama.com/patrimoine/impots/
+  81. https://www.boursorama.com/patrimoine/impots/
+  82. https://www.boursorama.com/patrimoine/impots/
+  83. https://www.boursorama.com/patrimoine/impots/actualites/
+  84. https://www.boursorama.com/patrimoine/impots/impots-sur-le-revenu/
+  85. https://www.boursorama.com/patrimoine/impots/impots-fonciers/
+  86. https://www.boursorama.com/patrimoine/impots/ifi-isf/
+  87. https://www.boursorama.com/patrimoine/impots/deductions-reductions-impots/
+  88. https://www.boursorama.com/patrimoine/impots/defiscalisation/
+  89. https://www.boursorama.com/patrimoine/impots/simulateur/impot-revenu
+  90. https://www.boursorama.com/patrimoine/impots/simulateur/impot-revenu
+  91. https://www.boursorama.com/patrimoine/impots/simulateur/impot-revenu
+  92. https://www.boursorama.com/patrimoine/impots/simulateur/impot-revenu
+  93. https://www.boursorama.com/patrimoine/impots/simulateur/prelevement-a-la-source
+  94. https://www.boursorama.com/patrimoine/impots/simulateur/impot-fortune
+  95. https://www.boursorama.com/patrimoine/retraite/
+  96. https://www.boursorama.com/patrimoine/retraite/
+  97. https://www.boursorama.com/patrimoine/retraite/
+  98. https://www.boursorama.com/patrimoine/retraite/actualites/
+  99. https://www.boursorama.com/patrimoine/retraite/placements-retraite/
+ 100. https://www.boursorama.com/patrimoine/retraite/outils-simulateurs
+ 101. https://www.boursorama.com/patrimoine/retraite/outils-simulateurs
+ 102. https://www.boursorama.com/patrimoine/retraite/outils-simulateurs
+ 103. https://www.boursorama.com/patrimoine/retraite/outils-simulateurs
+ 104. https://www.boursorama.com/patrimoine/retraite/simulateur-plan-epargne-retraite-per
+ 105. https://www.boursorama.com/patrimoine/retraite/simulateur-reforme-retraite
+ 106. https://www.boursorama.com/patrimoine/succession/
+ 107. https://www.boursorama.com/patrimoine/succession/
+ 108. https://www.boursorama.com/patrimoine/succession/actualites/
+ 109. https://www.boursorama.com/patrimoine/succession/transmission/
+ 110. https://www.boursorama.com/patrimoine/dossiers/
+ 111. https://www.boursorama.com/patrimoine/forum/
+ 112. https://www.boursorama.com/conso/
+ 113. https://www.boursorama.com/videos/
+ 114. https://www.boursorama-banque.com/?origine=2403
+ 115. https://www.boursorama.com/membre/send-activation-mail
+ 116. https://www.boursorama.com/contact/membres
+ 117. https://www.boursorama.com/membre/avantages-inscription
+ 118. https://www.boursorama.com/membre/avantages-inscription
+ 119. https://www.boursorama.com/
+ 120. https://www.boursorama.com/patrimoine/
+ 121. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#comments
+ 122. https://clients.boursorama.com/connexion/
+ 123. https://www.boursorama.com/membre/avantages-inscription
+ 124. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#comments
+ 125. https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/logement-pres-de-la-moitie-des-agences-immobilieres-accedent-aux-exigences-discriminatoires-des-proprietaires-selon-sos-racisme_5030486.html
+ 126. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#comments
+ 127. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 128. https://www.boursorama.com/membre/avantages-inscription
+ 129. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1274496
+ 130. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1274496
+ 131. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-040048E2BE3I
+ 132. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-040048E2BE3I
+ 133. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/ag603712-370879234
+ 134. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/ag603712-370879234
+ 135. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-50180463
+ 136. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-50180463
+ 137. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1273858
+ 138. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1273858
+ 139. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/hektor-AUMALE22-30
+ 140. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/hektor-AUMALE22-30
+ 141. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-50653630
+ 142. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-50653630
+ 143. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-51498985
+ 144. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-51498985
+ 145. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-50322486
+ 146. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-50322486
+ 147. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1201180
+ 148. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1201180
+ 149. https://www.boursorama.com/bourse/devises/convertisseur-devises/
+ 150. https://www.boursorama.com/bourse/devises/convertisseur-devises/dollar-euro
+ 151. https://www.boursorama.com/bourse/devises/convertisseur-devises/euro-dollar
+ 152. https://www.boursorama.com/bourse/devises/convertisseur-devises/livresterling-euro
+ 153. https://www.boursorama.com/bourse/devises/convertisseur-devises/euro-livresterling
+ 154. https://www.boursorama.com/bourse/devises/convertisseur-devises/francsuisse-euro
+ 155. https://www.boursorama.com/bourse/devises/convertisseur-devises/euro-francsuisse
+ 156. https://www.boursorama.com/bourse/devises/convertisseur-devises/euro-dinar
+ 157. https://www.boursorama.com/bourse/devises/convertisseur-devises/euro-dirham
+ 158. https://www.boursorama-banque.com/banque/compte-bancaire
+ 159. https://www.boursorama-banque.com/banque/carte-bancaire-premium-metal
+ 160. https://www.boursorama-banque.com/banque/carte-bancaire-gratuite-ultim
+ 161. https://www.boursorama-banque.com/banque/carte-bancaire-gratuite-welcome
+ 162. https://www.boursorama-banque.com/banque/compte-bancaire-mineur-gratuit-freedom
+ 163. https://www.boursorama-banque.com/banque/services-bancaires
+ 164. https://www.boursorama-banque.com/assurance
+ 165. https://www.boursorama-banque.com/epargne
+ 166. https://www.boursorama-banque.com/banque/compte-bancaire-pro
+ 167. https://www.boursorama-banque.com/credit
+ 168. https://www.boursorama-banque.com/epargne/assurance-vie
+ 169. https://www.boursorama-banque.com/bourse
+ 170. https://www.boursorama-banque.com/bourse/boursomarkets-courtage-bourse-gratuit
+ 171. https://www.boursorama-banque.com/
+ 172. https://www.boursorama.com/accessibilite/
+ 173. https://www.boursorama.com/contact/clients
+ 174. https://www.boursorama.com/aide-en-ligne/
+ 175. https://www.boursorama.com/aide/plan-du-site
+ 176. https://s.brsimg.com/content/pdf/reglementaire/cgu-membres.pdf
+ 177. https://s.brsimg.com/content/pdf/conditions-generales/conditions-generales.pdf
+ 178. https://www.boursorama.com/bourse/politique-execution/
+ 179. https://s.brsimg.com/content/pdf/banque/mif2/meilleureselection2021.pdf
+ 180. https://www.boursorama.com/aide/avertissement-legal
+ 181. javascript:///
+ 182. https://www.boursorama.com/aide/politique-cookies
+ 183. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees.pdf
+ 184. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf
+ 185. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-prospects.pdf
+ 186. https://www.boursorama.com/aide/affiliation
+ 187. https://www.boursorama-banque.com/
+ 188. https://s.brsimg.com/content/regie/spetech/gallery/index.html
+ 189. https://groupe.boursorama.fr/
+
+   Hidden links:
+ 191. https://www.boursorama.com/bourse/boursomarkets/
+ 192. https://www.boursorama.com/aide-en-ligne/
+ 193. https://www.boursorama.com/
+ 194. https://www.boursorama.com/aide-en-ligne/
+ 195. http://www.facebook.com/sharer/sharer.php?u=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 196. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
+ 197. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 198. javascript:window.print()
+ 199. http://www.facebook.com/sharer/sharer.php?u=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 200. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
+ 201. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 202. javascript:window.print()
+ 203. http://www.facebook.com/sharer/sharer.php?u=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 204. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
+ 205. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+ 206. javascript:window.print()
+ 207. https://www.boursorama.com/bourse/actualites/accord-belgique-engie-pour-prolonger-de-10-ans-deux-reacteurs-nucleaires-7b8cc014d4e739460789cc8ef19f552b
+ 208. https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-repasse-au-dessus-des-6-900-points-7c7cbfbff3b2e894f3cda0ecf52aaa62
+ 209. https://www.boursorama.com/videos/actualites/le-debrief-bourse-du-9-janvier-mais-quel-debut-d-annee-883cde3d9e0976661138f25b1b37a9b6
+ 210. https://www.boursorama.com/patrimoine/actualites/ce-que-vous-risquez-si-vous-vous-garez-dans-la-rue-devant-votre-propre-garage-14a677d142f6c92d3eec207e0e2fa713
+ 211. https://www.boursorama.com/patrimoine/actualites/credits-et-reductions-d-impot-un-acompte-bientot-verse-a-9-millions-de-foyers-ceadff71dc69e01292418aac336cf4c7
+ 212. https://www.boursorama.com/videos/actualites/epargne-faut-il-creer-un-nouveau-livret-vert-6f91627f2a9e2eacb9c8a9103b01bb12
+ 213. https://www.facebook.com/Boursorama-132746953466063/
+ 214. https://twitter.com/boursorama
+ 215. https://www.youtube.com/channel/UCnJ8fyizHQi6A_5_5Im7cVA
