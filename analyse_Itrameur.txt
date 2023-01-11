@@ -1,28 +1,45 @@
-Itrameur est une plateforme permettant d'analyser certains mots à partir d'un corpus, celle-ci va analyser et répertorier tous les mots se trouvant proche du mot recherché. Cela nous permettra d'inspecter les différents contextes qui lui sont assignés. Ici, nous cherchons précisément le mot "discrimination raciale". Afin d'avoir le syntagme en entier, nous avons enlevé l'espace. 
+Itrameur est une plateforme permettant d'analyser certains mots à partir d'un corpus, celle-ci va analyser et répertorier tous les mots se trouvant proche du mot recherché.
+Cela nous permettra d'inspecter les différents contextes qui lui sont assignés. Ici, nous cherchons précisément le mot "discrimination raciale".
+Afin d'avoir le syntagme en entier, nous avons enlevé l'espace.
 
 <p>
 
-<h1>Coocrurents spécifiques</h1>
+<h1>Cooccurrents spécifiques</h1>
 
-Nous avons fait appel à l'outil iTrameur-CooCs pour réaliser cette observation. Le graphe nous ressort pas mal de mots vides tels que les articles, conjonctions etc. Nous allons faire abstraction et se focaliser sur les mots pleins. 
+Nous avons fait appel à l'outil iTrameur-CooCs pour réaliser cette observation. Le graphe nous ressort pas mal de mots vides tels que les articles, conjonctions etc.
+ Nous allons faire abstraction et se focaliser sur les mots pleins.
 
 
-	On peut apercevoir les mots qui ont le plus d'occurrences en rouge "Racisme", "élimination", "sanctions". Le syntagme "sanctions" a un lien avec la justice. 
-Cela nous permet de comprendre que la justice s'efforce à y remédier, et qu'ils essayent de proscrire ces agissements discriminatoires. On peut y ajouter d'autres syntagmes portant sur cette thématique: "Plaint", "syndicale", "coupable", "poursuivi", "encourt","complices".
+On peut apercevoir les mots qui ont le plus d'occurrences en rouge "Racisme", "élimination", "sanctions". Le syntagme "sanctions" a un lien avec la justice.
+Cela nous permet de comprendre que la justice s'efforce à y remédier, et qu'ils essayent de proscrire ces agissements discriminatoires.
+On peut y ajouter d'autres syntagmes portant sur cette thématique: "Plaint", "syndicale", "coupable", "poursuivi", "encourt","complices".
 
 De plus, on peut observer de nombreux mots ayant un lien avec les journées de sensibilisation contre la discrimination raciale, on distingue différents mots portant sur ce sujet : ''élimination", "ONU", "lutter", "victime", "contre" et "comit?" représentant "comité".
 
 <graphe coocurrent spécifique>
 
-De nombreux mots apparaissent permettant de dénoncer les différentes situations où l'on peut y trouver de la discrimination raciale: "travail", "Location", "immobilières", "agence", "embauche". Cela confirme que la discrimination raciale peut se dérouler dans n'importe quelles situations: vie quotidienne en vacances par exemple ou lors d'une recherche d'emploi.
+De nombreux mots apparaissent permettant de dénoncer les différentes situations où l'on peut y trouver de la discrimination raciale: "travail", "Location", "immobilières", "agence", "embauche".
+Cela confirme que la discrimination raciale peut se dérouler dans n'importe quelles situations: vie quotidienne en vacances par exemple ou lors d'une recherche d'emploi.
 On a aussi pu constater que certaines firmes telles qu' "Airbus" et "Foncia" ont été attaquées pour propos racistes envers leurs employés et discrimination raciale à l'embauche.
 
 <graphe contexte x2>
 
-Nous avons utlisé l'outil iTrameur-CooCs-regexp permettant de réaliser une recherche avec l'utilisation d'une expression régulière : \b(D|d)iscrimination. Cela nous a permis d'avoir un réseau de coocurrents spécifiques avec expression régulière celui-ci nous présente les mêmes thématiques exprimées plus haut. 
+Nous avons utlisé l'outil iTrameur-CooCs-regexp permettant de réaliser une recherche avec l'utilisation d'une expression régulière : \b(D|d)iscrimination.
+Cela nous a permis d'avoir un réseau de coocurrents spécifiques avec expression régulière celui-ci nous présente les mêmes thématiques exprimées plus haut.
+Pourtant, cet outil aurait pu être d'une grande aide pour obtenir de nouveaux contextes ou pour développer mon analyse sur ces différents sujets.
 
 <graphe réseau cooccurrents>
 
 
 À partir de ces deux outils on peut donc constater les mêmes thématiques reviennent: la justice, l'emploi, vie quotidienne ou encore la lutte contre le racisme.
 </p>
+
+Conclusion
+
+
+La discrimination raciale est un sujet omniprésent en France, nous avons pu le constater avec le graphe de cooccurrents puisque de nombreux articles évoquent les journées de sensibilisation au racisme qui peut y avoir en lien avec l'ONU ou non.
+
+Mes résultats ont pu répondre aux interrogations posées précédemment malgré que mon corpus n'était pas très solide. Dans le graphe cooccurrent spécifique, nous avons pu distinguer 4 sujets qui sont assez fréquents en France tels que les journées de sensibilisation au racisme, l'embauche à l'emploi, les discriminations qui peuvent avoir dans la vie de tous les jours ou encore tout ce qui est question de justice avec les sanctions, peines que que l'on peut avoir si on commet de la discrimination raciale.
+
+De nombreux articles évoquent la discrimination raciale mais pas avec ce syntagme précisément, les journalistes emploient le plus souvent le terme racisme : on a pu le constater dans notre réseau de cooccurrents.
+Mon analyse ne nous a pas grandement permis de la comparer aux analyses chinoise et anglaise. Cependant, on a pu constater quelques similitudes sur les contextes auquel notre mot cible fait référence. On a pu constater le terme "ethnique" faisant référence à une population mais on ne sait pas de laquelle il s'agit. À la comparaison avec les résultats du corpus chinois qui évoque des ethnies précises telle que: les Noirs, les Jaunes, Asiatiques. On peut alors comprendre qu'en France on parle d'une ou plusieurs populations précise mais notre corpus ne nous permet pas de savoir desquelles exactement.
