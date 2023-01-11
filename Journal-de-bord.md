@@ -31,7 +31,7 @@ J'ai essayé d'effectuer un tag avec la commande fourni dans les slides, incapac
 
 ##Recherche urls
 * Ma recherche d'urls a été effectuée a plusieurs reprises. J'ai rencontré énormément de problème avec celle-ci. Des urls comportant mon mot et par la suite quand je crée le tableau : il affiche aucune occurrence. J'ai eu beau tester, chercher de comprendre, cela reste toujours en suspend pour l'instant.
-* De plus, certaines de mes articles n'étaient pas encodés en UTF-8 mais je n'arrivais pas non plus à faire la conversion, quelques petits problèmes qui se sont alors percuté sur mon analyse itrameur qui a été plutôt fluctuante mais qui aurait pu l'être beaucoup plus.
+* De plus, certains de mes articles n'étaient pas encodés en UTF-8 mais je n'arrivais pas non plus à faire la conversion, quelques petits problèmes qui se sont alors percuté sur mon analyse itrameur qui a été plutôt fructueuse mais qui aurait pu l'être beaucoup plus.
 
 #Nuage de mots
 * Création d'un nuage de mot avec un site internet car je n'ai pas réussi à crée une liste de stopwords. Malgrés cela mon nuage de mot reste représentatif et à l'image que je voulais qu'il soit.
