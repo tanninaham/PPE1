@@ -1,0 +1,28 @@
+Itrameur est une plateforme permettant d'analyser certains mots à partir d'un corpus, celle-ci va analyser et répertorier tous les mots se trouvant proche du mot recherché. Cela nous permettra d'inspecter les différents contextes qui lui sont assignés. Ici, nous cherchons précisément le mot "discrimination raciale". Afin d'avoir le syntagme en entier, nous avons enlevé l'espace. 
+
+<p>
+
+<h1>Coocrurents spécifiques</h1>
+
+Nous avons fait appel à l'outil iTrameur-CooCs pour réaliser cette observation. Le graphe nous ressort pas mal de mots vides tels que les articles, conjonctions etc. Nous allons faire abstraction et se focaliser sur les mots pleins. 
+
+
+	On peut apercevoir les mots qui ont le plus d'occurrences en rouge "Racisme", "élimination", "sanctions". Le syntagme "sanctions" a un lien avec la justice. 
+Cela nous permet de comprendre que la justice s'efforce à y remédier, et qu'ils essayent de proscrire ces agissements discriminatoires. On peut y ajouter d'autres syntagmes portant sur cette thématique: "Plaint", "syndicale", "coupable", "poursuivi", "encourt","complices".
+
+De plus, on peut observer de nombreux mots ayant un lien avec les journées de sensibilisation contre la discrimination raciale, on distingue différents mots portant sur ce sujet : ''élimination", "ONU", "lutter", "victime", "contre" et "comit?" représentant "comité".
+
+<graphe coocurrent spécifique>
+
+De nombreux mots apparaissent permettant de dénoncer les différentes situations où l'on peut y trouver de la discrimination raciale: "travail", "Location", "immobilières", "agence", "embauche". Cela confirme que la discrimination raciale peut se dérouler dans n'importe quelles situations: vie quotidienne en vacances par exemple ou lors d'une recherche d'emploi.
+On a aussi pu constater que certaines firmes telles qu' "Airbus" et "Foncia" ont été attaquées pour propos racistes envers leurs employés et discrimination raciale à l'embauche.
+
+<graphe contexte x2>
+
+Nous avons utlisé l'outil iTrameur-CooCs-regexp permettant de réaliser une recherche avec l'utilisation d'une expression régulière : \b(D|d)iscrimination. Cela nous a permis d'avoir un réseau de coocurrents spécifiques avec expression régulière celui-ci nous présente les mêmes thématiques exprimées plus haut. 
+
+<graphe réseau cooccurrents>
+
+
+À partir de ces deux outils on peut donc constater les mêmes thématiques reviennent: la justice, l'emploi, vie quotidienne ou encore la lutte contre le racisme.
+</p>
