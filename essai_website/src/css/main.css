@@ -1,0 +1,136 @@
+
+
+* {
+    margin: -10;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { font-family: 'Montserrat', 'sans-serif'; }
+a { text-decoration: none; }
+
+
+
+.header{
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  height: 70px;
+  line-height: 70px;
+  background-color: rgba(0,0,0,0);
+  position: absolute;
+  top: 0;
+  z-index: 999;
+}
+
+.header .header-logo{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  float: left;
+  margin-left: 30px;
+  color: #636e72;
+}
+
+.header .navbar-sousMenu {
+  float: right;
+  margin-right: 30px;
+  background-image: image("https://unsplash.com/fr/photos/0wDNSP38YzI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink");
+  border-top: none;
+
+}
+
+.header .logo{
+  margin-left: 60px;
+}
+/*
+BANNER
+*/
+.banner {
+  margin-top: -30px;
+  color: #FFFFFF;
+
+}
+
+.banner .banner-image {
+  position: relative;
+}
+
+.banner .banner-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  top: 50%;
+}
+
+.header .heading-site {
+  text-align: center;
+
+}
+/*
+ABOUT
+*/
+.about .about-single-element icon {
+  font-size: 60px;
+  text-align: center;
+
+}
+
+.about .about-single-element {
+  text-align: center;
+  top: 90%;
+}
+
+.about .about-single-element p {
+  text-align: left;
+  margin-top: 20px;
+}
+
+/*
+FOOTER
+*/
+.footer .footer-information{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.footer .footer-information ul {
+  padding: 0;
+}
+
+.footer .footer-information ul li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+/*
+MODAL
+*/
+.own-modal{
+  padding-top: 120px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dropdownmenu {
+    background-color: #11111;
+    display: flex;
+  }
+  .dropdownmenu ul {
+    display: none;
+  }
+  .dropdownmenu,
+  .dropdownmenu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .dropdownmenu li {
+    position: relative;
+  }
+
+ 

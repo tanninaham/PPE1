@@ -1,0 +1,120 @@
+/*
+GLOBAL
+*/
+.heading-site {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.COLORED {
+   height: 400px;
+   width: 100%;
+   background-color: #636e72;
+   padding: 30px;
+   text-align: center;
+}
+
+/*
+header
+*/
+.header{
+  width: 90%;
+  margin-left: 0;
+  margin-right: 10;
+  height: 70px;
+  line-height: 60px;
+  background-color: rgba(0, 0, 0, 0);
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+
+.header .header-logo{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  float: left;
+  margin-left: 30px;
+  color: #636e72;
+}
+
+.header .header-menu {
+  float: right;
+  margin-right: 10px;
+}
+
+.header .navbar-sousMenu{
+  margin-right: 15px;
+  color: #636e72;
+}
+
+.header .header-menu a:hover{
+  color:#3498db
+}
+
+
+
+/*
+BANNER
+*/
+.banner {
+  margin-top: -50px;
+
+}
+
+.banner .banner-image {
+  position: relative;
+}
+
+.banner .banner-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #FFFFFF;
+  top: 50%;
+}
+
+
+
+/*
+ABOUT
+*/
+.about .about-single-element icon {
+  font-size: 60px;
+  text-align: center;
+
+}
+
+.about .about-single-element {
+  text-align: center;
+  top: 90%;
+}
+
+.about .about-single-element p {
+  text-align: left;
+  margin-top: 20px;
+}
+
+/*
+FOOTER
+*/
+.footer .footer-information{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.footer .footer-information ul {
+  padding: 0;
+}
+
+.footer .footer-information ul li {
+  display: inline-block;
+  list-style-type: none;
+}
+
+/*
+MODAL
+*/
+.own-modal{
+  padding-top: 20px;
+}
+
